@@ -1,0 +1,23 @@
+{
+  "name": "aics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheReconPilot/AICS.git"
+  },
+  "author": "TheReconPilot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheReconPilot/AICS/issues"
+  },
+  "homepage": "https://github.com/TheReconPilot/AICS",
+  "devDependencies": {
+    "docsify-cli": "^4.4.2"
+  }
+}

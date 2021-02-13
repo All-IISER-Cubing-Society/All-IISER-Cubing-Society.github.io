@@ -2,8 +2,6 @@
 
 # AICS - Online Cubing Event
 
-
-
 The All IISER Cubing Society brings a fun little cubing event for everyone in science institutes around the country.
 
 To participate, be present on the WhatsApp group at the given date and time.
@@ -62,20 +60,11 @@ Try to follow the standard [WCA Regulations](https://www.worldcubeassociation.or
 ### Scoring
 
 - The Team will verify the uploaded videos and present the scores to the WhatsApp group as soon as possible.
-- If there are enough members participating, we would also keep an institute leader-board, with the following statistics:
-  - Average of all solves from an institute
-  - "Average of 5" solves from each participant in a given institute
-  - Single Best Solve from a given institute 
 
+- If there are enough members participating, we would also keep an institute leader-board with some appropriate statistics.
 
-
-> **Average of 5** ([Regulation 9f8](https://www.worldcubeassociation.org/regulations/#9f8)): Of the 5 attempts, the best and worst attempts are removed, and the arithmetic mean of the remaining 3 attempts is taken.
-
-
+  
 
 ### Results
 
 - The person with the best average will be declared the winner of the competition.
-- If there is enough participation, the institute with the best *Average of 5* solves will be declared the winner of the competition.
-
-A leader board will be published as well.

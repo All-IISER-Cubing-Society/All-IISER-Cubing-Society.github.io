@@ -3,7 +3,7 @@
 A repository to just simply store the rules and guidelines, and maybe other stuff, 
 and serve them onto a site.
 
-Site: https://thereconpilot.github.io/AICS
+Site: https://all-iiser-cubing-society.github.io/
 
 ## Other Info
 

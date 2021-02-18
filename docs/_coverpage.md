@@ -2,4 +2,4 @@
 > All IISER Cubing Society
 
 [Instagram](https://www.instagram.com/all.iiser.cubing.society/)
-[Weekly Event](#aics-online-cubing-event)
+[AICS](#AICS)

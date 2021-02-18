@@ -1,4 +1,4 @@
-<img src="Logos/AICS-Logo-Light-Cropped.jpeg"  />
+<img src="Logos/AICS-Logo-Light.svg" style="display:block; margin: auto;" />
 
 # AICS
 

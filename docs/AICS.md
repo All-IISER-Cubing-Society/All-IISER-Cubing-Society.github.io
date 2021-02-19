@@ -2,7 +2,7 @@
 
 # AICS
 
-The **All IISER Cubing Society (AICS)** was formed in February 2021 to bring together cubers and people interested in cubing from different science institutes in India.
+The **All IISER Cubing Society (AICS)** is a community to bring together cubers and people interested in cubing from different science institutes in India.
 
 We currently hold **Weekly Online Cubing Events**, on weekends. We also plan to conduct a big event along with inter-IISER chess and gaming events sometime in a few months.
 

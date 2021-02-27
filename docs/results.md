@@ -1,5 +1,26 @@
 # Weekly Event Results
 
+## 27th February 2021
+
+| Average | Name              | Institute                |
+| :-----: | ----------------- | ------------------------ |
+|  9.13   | Siddhikant Mishra | IISER Kolkata            |
+|  9.58   | Aaryan Shah       | IISER Bhopal             |
+|  12.75  | Vaishakh Kargudri | IISER Pune               |
+|  13.07  | Kartik Bhide      | IISER Thiruvananthapuram |
+|  13.19  | Yash Jakhmola     | IISER Kolkata            |
+|  15.00  | Archith Telukunta | IISER Tirupati           |
+|  15.50  | Neev Shah         | IISER Pune               |
+|  16.27  | Nilesh Pandey     | IISER Thiruvananthapuram |
+|  19.70  | Santhosh S        | IISER Berhampur          |
+|  23.79  | Sushanth G        | IISER Kolkata            |
+|  45.34  | Pranav M G        | IISER Tirupati           |
+| 1:15.00 | Rithu Gokul K     | IISER Kolkata            |
+
+## 20th February 2021
+
+Weekly event not held due to Cubelelo Speecubing Unlocked 10.0
+
 ## 13th February 2021
 
 | Average | Name              | Institute                |

@@ -19,7 +19,7 @@
 
 ## 20th February 2021
 
-Weekly event not held due to Cubelelo Speecubing Unlocked 10.0
+Weekly event not held due to Cubelelo Speedcubing Unlocked 10.0
 
 ## 13th February 2021
 

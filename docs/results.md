@@ -1,5 +1,69 @@
 # Weekly Event Results
 
+## 27th March 2021
+
+| Average | Name                   | Institute                |
+| :-----: | :--------------------- | ------------------------ |
+|  11.03  | Vaishakh Kargudri      | IISER Pune               |
+|  11.91  | Kartik Bhide           | IISER Thiruvananthapuram |
+|  12.84  | Aaryan Shah            | IISER Bhopal             |
+|  13.05  | Yash Jakhmola          | IISER Kolkata            |
+|  14.77  | Archith Telukunta      | IISER Tirupati           |
+|  17.67  | Neev Shah              | IISER Pune               |
+|  19.55  | Vivek Raghuram         | IISER Pune               |
+|  19.57  | Lalithkumaar Muniyandi | IISER Tirupati           |
+|  22.97  | Sushanth G             | IISER Kolkata            |
+|  29.43  | Saryhak Thorat         | IISER Thiruvananthapuram |
+|  34.45  | Pranav M G             | IISER Tirupati           |
+|  35.33  | Aalam Enso             | IISER Pune               |
+|  35.72  | Mayank Agarwal         | IISER Berhampur          |
+| 1:05.93 | Sweta Sethi            | IISER Berhampur          |
+| 1:09.97 | Abhiram M              | IISc                     |
+
+---
+
+## 20th March 2021
+
+| Average | Name              | Institute                |
+| :-----: | ----------------- | ------------------------ |
+|  9.87   | Siddhikant Mishra | IISER Kolkata            |
+|  10.38  | Aaryan Shah       | IISER Bhopal             |
+|  11.71  | Yash Jakhmola     | IISER Kolkata            |
+|  12.44  | Kartik Bhide      | IISER Thiruvananthapuram |
+|  12.65  | Vaishakh Kargudri | IISER Pune               |
+|  15.71  | Archith Telukunta | IISER Tirupati           |
+|  15.78  | Nilesh Pandey     | IISER Thiruvananthapuram |
+|  17.47  | Neev Shah         | IISER Pune               |
+|  21.18  | Santhosh S        | IISER Berhampur          |
+|  23.11  | Vivek Raghuram    | IISER Pune               |
+|  25.44  | Sushanth G        | IISER Kolkata            |
+|  34.72  | Mayank Agarwal    | IISER Berhampur          |
+|  40.08  | Pranav M G        | IISER Tirupati           |
+|  42.58  | Aalam Enso        | IISER Pune               |
+|  46.43  | Bhrijesh Mishra   | IISER Berhampur          |
+| 1:12.56 | Sweta Sethi       | IISER Berhampur          |
+
+---
+
+## 13th March 2021
+
+| Average | Name                   | Institute                |
+| :-----: | ---------------------- | ------------------------ |
+|  8.42   | Siddhikant Mishra      | IISER Kolkata            |
+|  11.24  | Aaryan Shah            | IISER Bhopal             |
+|  11.74  | Abhay Gupta            | IISER Mohali             |
+|  13.45  | Kartik Bhide           | IISER Thiruvananthapuram |
+|  13.45  | Vaishakh Kargudri      | IISER Pune               |
+|  14.28  | Yash Jakhmola          | IISER Kolkata            |
+|  15.21  | Neev Shah              | IISER Pune               |
+|  22.77  | Lalithkumaar Muniyandi | IISER Tirupati           |
+|  23.42  | Sushanth G             | IISER Kolkata            |
+|  37.27  | Pranav M G             | IISER Tirupati           |
+|  41.25  | Mayank Agarwal         | IISER Berhampur          |
+| 2:10.7  | Asmi Gaikwad           | IISER Pune               |
+
+---
+
 ## 6th March 2021
 
 | Average | Name              | Institute                |

@@ -1,5 +1,35 @@
 # Weekly Event Results
 
+## 10th April 2021
+
+| Average | Name              | Institute       |
+| :-----: | ----------------- | --------------- |
+|  8.80   | Siddhikant Mishra | IISER Kolkata   |
+|  9.71   | Aaryan Shah       | IISER Bhopal    |
+|  10.56  | Abhay Gupta       | IISER Mohali    |
+|  12.63  | Yash Jakhmola     | IISER Kolkata   |
+|  14.78  | Archith Telukunta | IISER Tirupati  |
+|  14.82  | Neev Shah         | IISER Pune      |
+|  18.55  | Santhosh S        | IISER Berhampur |
+|  20.09  | Vivek Raghuram    | IISER Pune      |
+|  21.02  | Sushanth G        | IISER Kolkata   |
+|  34.82  | Pranav M G        | IISER Tirupati  |
+|  45.71  | Bhrijesh Mishra   | IISER Berhampur |
+|  58.27  | Abhiram M         | IISc            |
+| 1:02.81 | Sweta Sethi       | IISER Berhampur |
+
+---
+
+## Tenacity Cubing Event: 2nd-4th April 2021
+
+The final standings:
+
+1. IISER Kolkata
+2. IISc
+3. IISER Pune
+
+---
+
 ## 27th March 2021
 
 | Average | Name                   | Institute                |

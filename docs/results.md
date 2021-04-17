@@ -1,5 +1,28 @@
 # Weekly Event Results
 
+## 17th April 2021
+
+The event has now been made open for all.
+
+| Average | Name                   | Institute       |
+| :-----: | ---------------------- | --------------- |
+|  9.27   | Siddhikant Mishra      | IISER Kolkata   |
+|  10.64  | Yash Jakhmola          | IISER Kolkata   |
+|  10.72  | Aaryan Shah            | IISER Bhopal    |
+|  11.42  | Vaishakh Kargudri      | IISER Pune      |
+|  12.51  | Nirnoy Barma           | -               |
+|  14.63  | Archith Telukunta      | IISER Tirupati  |
+|  14.72  | Neev Shah              | IISER Pune      |
+|  17.14  | Santhosh S             | IISER Berhampur |
+|  18.34  | Lalithkumaar Muniyandi | IISER Tirupati  |
+|  19.59  | Vivek Raghuram         | IISER Pune      |
+|  20.88  | Sushanth G             | IISER Kolkata   |
+|  30.63  | Mayank Agarwal         | IISER Berhampur |
+|  31.65  | Pranav M G             | IISER Tirupati  |
+|  56.61  | Abhiram M              | IISc            |
+
+---
+
 ## 10th April 2021
 
 | Average | Name              | Institute       |

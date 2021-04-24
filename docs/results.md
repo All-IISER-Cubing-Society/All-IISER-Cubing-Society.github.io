@@ -1,5 +1,31 @@
 # Weekly Event Results
 
+## 24th April 2021
+
+| Average | Name                   | Institute                          |
+| :-----: | ---------------------- | ---------------------------------- |
+|  7.61   | Sripad Sarma Katrapati | Government Dental College, Chennai |
+|  9.30   | Siddhikant Mishra      | IISER Kolkata                      |
+|  11.65  | Dhruv Agarwal          | The Heritage School                |
+|  12.51  | Yash Jakhmola          | IISER Kolkata                      |
+|  12.97  | Vaishakh Kargudri      | IISER Pune                         |
+|  13.67  | Archith Telukunta      | IISER Tirupati                     |
+|  16.73  | Neev Shah              | IISER Pune                         |
+|  16.86  | Santhosh S             | IISER Berhampur                    |
+|  18.44  | Gourav Mukherjee       | St. Xavier's Institution           |
+|  19.70  | Mukul Das              | CU                                 |
+|  20.84  | Sushanth G             | IISER Kolkata                      |
+|  21.99  | Vivek Raghuram         | IISER Pune                         |
+|  23.05  | Ayush Das              | IISER Pune                         |
+|  23.49  | Amoghavarsha A V       | IISER Pune                         |
+|  27.38  | Aalam Enso             | IISER Pune                         |
+|  30.35  | Mayank Agarwal         | IISER Berhampur                    |
+|  30.42  | Pranav M G             | IISER Tirupati                     |
+|  49.31  | Abhiram M              | IISc                               |
+| 1:01.94 | Sweta Sethi            | IISER Berhampur                    |
+
+---
+
 ## 17th April 2021
 
 The event has now been made open for all.

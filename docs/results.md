@@ -1,6 +1,8 @@
 # Weekly Event Results
 
-## 24th April 2021
+## April 2021
+
+### 24 April 2021
 
 | Average | Name                   | Institute                          |
 | :-----: | ---------------------- | ---------------------------------- |
@@ -24,9 +26,9 @@
 |  49.31  | Abhiram M              | IISc                               |
 | 1:01.94 | Sweta Sethi            | IISER Berhampur                    |
 
----
 
-## 17th April 2021
+
+### 17 April 2021
 
 The event has now been made open for all.
 
@@ -47,9 +49,9 @@ The event has now been made open for all.
 |  31.65  | Pranav M G             | IISER Tirupati  |
 |  56.61  | Abhiram M              | IISc            |
 
----
 
-## 10th April 2021
+
+### 10 April 2021
 
 | Average | Name              | Institute       |
 | :-----: | ----------------- | --------------- |
@@ -69,7 +71,7 @@ The event has now been made open for all.
 
 ---
 
-## Tenacity Cubing Event: 2nd-4th April 2021
+### Tenacity Cubing Event: 2nd-4th April 2021
 
 The final standings:
 
@@ -77,9 +79,16 @@ The final standings:
 2. IISc
 3. IISER Pune
 
+The videos:
+
+- **Play-offs:** [https://www.youtube.com/watch?v=VFW563E0Obo](https://www.youtube.com/watch?v=VFW563E0Obo)
+- **Finals:** [https://www.youtube.com/watch?v=hZc6JJ-jOLA](https://www.youtube.com/watch?v=hZc6JJ-jOLA)
+
 ---
 
-## 27th March 2021
+## March 2021
+
+### 27 March 2021
 
 | Average | Name                   | Institute                |
 | :-----: | :--------------------- | ------------------------ |
@@ -99,9 +108,9 @@ The final standings:
 | 1:05.93 | Sweta Sethi            | IISER Berhampur          |
 | 1:09.97 | Abhiram M              | IISc                     |
 
----
 
-## 20th March 2021
+
+### 20 March 2021
 
 | Average | Name              | Institute                |
 | :-----: | ----------------- | ------------------------ |
@@ -122,9 +131,9 @@ The final standings:
 |  46.43  | Bhrijesh Mishra   | IISER Berhampur          |
 | 1:12.56 | Sweta Sethi       | IISER Berhampur          |
 
----
 
-## 13th March 2021
+
+### 13 March 2021
 
 | Average | Name                   | Institute                |
 | :-----: | ---------------------- | ------------------------ |
@@ -141,9 +150,9 @@ The final standings:
 |  41.25  | Mayank Agarwal         | IISER Berhampur          |
 | 2:10.7  | Asmi Gaikwad           | IISER Pune               |
 
----
 
-## 6th March 2021
+
+### 06 March 2021
 
 | Average | Name              | Institute                |
 | :-----: | ----------------- | ------------------------ |
@@ -163,7 +172,9 @@ The final standings:
 
 ---
 
-## 27th February 2021
+## February 2021
+
+### 27 February 2021
 
 | Average | Name              | Institute                |
 | :-----: | ----------------- | ------------------------ |
@@ -180,15 +191,15 @@ The final standings:
 |  45.34  | Pranav M G        | IISER Tirupati           |
 | 1:15.00 | Rithu Gokul K     | IISER Kolkata            |
 
----
 
-## 20th February 2021
+
+### 20 February 2021
 
 Weekly event not held due to Cubelelo Speedcubing Unlocked 10.0
 
----
 
-## 13th February 2021
+
+### 13 February 2021
 
 | Average | Name              | Institute                |
 | :-----: | ----------------- | ------------------------ |
@@ -204,9 +215,9 @@ Weekly event not held due to Cubelelo Speedcubing Unlocked 10.0
 | 1:08.94 | Rithu Gokul K     | IISER Kolkata            |
 | 1:49.21 | Nirmitee          | IISER Kolkata            |
 
----
 
-## 6th February 2021
+
+### 06 February 2021
 
 | Average | Name              | Institute                |
 | :-----: | ----------------- | ------------------------ |

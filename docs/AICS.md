@@ -49,7 +49,7 @@ The Tenacity Cubing Event, sponsored by Cubelelo, was held during 2nd-4th April.
 
 - **Date:** 4th April 2021, Sunday
 - **Time:** 11 AM - 01 PM IST
-- **Play-offs:**: [https://www.youtube.com/watch?v=VFW563E0Obo](https://www.youtube.com/watch?v=VFW563E0Obo)
+- **Play-offs:** [https://www.youtube.com/watch?v=VFW563E0Obo](https://www.youtube.com/watch?v=VFW563E0Obo)
 - **Finals:** [https://www.youtube.com/watch?v=hZc6JJ-jOLA](https://www.youtube.com/watch?v=hZc6JJ-jOLA)
 
 The final standings:

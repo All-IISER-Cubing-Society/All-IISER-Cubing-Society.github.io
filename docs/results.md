@@ -1,5 +1,36 @@
 # Weekly Event Results
 
+## May 2021
+
+### 01 May 2021
+
+| Average | Name                   | Institute              |
+| :-----: | ---------------------- | ---------------------- |
+|  6.96   | Sripad Sarma Katrapati | GDC Chennai            |
+|  9.29   | Siddhikant Mishra      | IISER Kolkata          |
+|  10.21  | Adil Ahmed             | Jadavpur University    |
+|  10.74  | Abhay Gupta            | IISER Mohali           |
+|  10.80  | Dhruv Agarwal          | The Heritage School    |
+|  11.19  | Yash Jakhmola          | IISER Kolkata          |
+|  11.21  | Aaryan Shah            | IISER Bhopal           |
+|  11.62  | Vaishakh Kargudri      | IISER Pune             |
+|  12.36  | Nirnoy Barma           | St. Mary's High School |
+|  14.41  | Yash Mehta             | IISc                   |
+|  15.35  | Neev Shah              | IISER Pune             |
+|  16.69  | Santhosh S             | IISER Berhampur        |
+|  16.78  | Mukul Das              | Goenka College         |
+|  19.75  | Vivek Raghuram         | IISER Pune             |
+|  20.41  | Sushanth G             | IISER Kolkata          |
+|  31.08  | Mayank Agarwal         | IISER Berhampur        |
+|  32.03  | Pranav M G             | IISER Tirupati         |
+|  32.28  | Aalam Enso             | IISER Pune             |
+|  35.27  | Bhrijesh Mishra        | IISER Berhampur        |
+|  41.25  | Abhiram M              | IISc                   |
+
+
+
+---
+
 ## April 2021
 
 ### 24 April 2021

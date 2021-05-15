@@ -2,6 +2,28 @@
 
 ## May 2021
 
+### 15 May 2021
+
+| Average | Name                | Institute                        |
+| :-----: | ------------------- | -------------------------------- |
+|  8.37   | Siddhikant Mishra   | IISER Kolkata                    |
+|  11.66  | Yash Jakhmola       | IISER Kolkata                    |
+|  11.98  | Vaishakh Kargudri   | IISER Pune                       |
+|  12.25  | Arghadeep Mukherjee |                                  |
+|  12.80  | Nirnoy Barma        | Techno India Group Public School |
+|  13.86  | Satyam Shiwal       | Ramjas College (DU)              |
+|  15.29  | Santhosh            | IISER Berhampur                  |
+|  15.33  | Neev Shah           | IISER Pune                       |
+|  16.67  | Mukul Das           | Goenka College of Commerce       |
+|  21.08  | Vivek Raghuram      | IISER Pune                       |
+|  22.56  | Sushanth G          | IISER Kolkata                    |
+|  27.83  | Aalam Enso          | IISER Pune                       |
+|  28.39  | Amoghavarsha A V    | IISER Pune                       |
+|  29.27  | Mayank Agarwal      | IISER Berhampur                  |
+|  29.28  | Pranav M G          | IISER Tirupati                   |
+
+
+
 ### 08 May 2021
 
 | Average | Name              | Institute                        |

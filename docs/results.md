@@ -2,6 +2,47 @@
 
 ## May 2021
 
+### 22 May 2021
+
+**3x3 OH** is introduced.
+
+#### 3x3
+
+| 3x3 Average | Name              | Institute                  |
+| :---------: | ----------------- | -------------------------- |
+|    9.17     | Siddhikant Mishra | IISER Kolkata              |
+|    10.03    | Adil Ahmed        | Jadavpur University        |
+|    11.90    | Vaishakh Kargudri | IISER Pune                 |
+|    12.83    | Yash Jakhmola     | IISER Kolkata              |
+|    12.96    | Satyam Panchal    | Ramjas College (DU)        |
+|    13.48    | Archith Telukunta | IISER Tirupati             |
+|    17.92    | Mukul Das         | Goenka College of Commerce |
+|    19.31    | Vivek Raghuram    | IISER Pune                 |
+|    21.85    | Sushanth G        | IISER Kolkata              |
+|    23.93    | Neelesh Mishra    | Inventure Academy          |
+|    24.79    | Mayank Agarwal    | IISER Berhampur            |
+|    27.99    | Aalam Enso        | IISER Pune                 |
+|    32.00    | Pranav M G        | IISER Tirupati             |
+|    33.01    | Bhrijesh Mishra   | IISER Berhampur            |
+|    43.84    | Abhiram M         | IISc                       |
+
+
+
+#### 3x3 OH
+
+| 3x3 OH Average | Name              | Institute                  |
+| :------------: | ----------------- | -------------------------- |
+|     16.90      | Siddhikant Mishra | IISER Kolkata              |
+|     18.28      | Vaishakh Kargudri | IISER Pune                 |
+|     19.06      | Adil Ahmed        | Jadavpur University        |
+|     20.00      | Satyam Panchal    | Ramjas College (DU)        |
+|     21.56      | Kartik Bhide      | IISER TVM                  |
+|     28.08      | Yash Jakhmola     | IISER Kolkata              |
+|     37.01      | Mukul Das         | Goenka College of Commerce |
+|    1:22.30     | Abhiram M         | IISc                       |
+
+
+
 ### 15 May 2021
 
 | Average | Name                | Institute                        |

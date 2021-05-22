@@ -10,10 +10,12 @@ We currently hold **Weekly Online Cubing Events**, on weekends.
 
 To participate, be present on the WhatsApp group at the given date and time.
 
-- **Date:** 22<sup>nd</sup> May 2021, Saturday
+- **Date:** 29<sup>th</sup> May 2021, Saturday
 - **Time:** 06:00 PM IST
-- **Submission Deadline**: 06:40 PM IST
-- **Events:** 3x3
+- **Submission Deadline**: 07:00 PM IST
+- **Events:**
+    - 3x3
+    - 3x3 OH
 
 **Make sure you read the [Rules and Guidelines](/rules).** You may also read the helpful [Video Compression Guide](/compression), which would show a simple way to compress videos recorded from your device. Compression is helpful in case your video file size is getting quite large.
 

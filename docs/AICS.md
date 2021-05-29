@@ -11,8 +11,8 @@ We currently hold **Weekly Online Cubing Events**, on weekends.
 To participate, be present on the WhatsApp group at the given date and time.
 
 - **Date:** 29<sup>th</sup> May 2021, Saturday
-- **Time:** 06:00 PM IST
-- **Submission Deadline**: 07:00 PM IST
+- **Time:** 07:00 PM IST
+- **Submission Deadline**: 08:00 PM IST
 - **Events:**
     - 3x3
     - 3x3 OH

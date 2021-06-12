@@ -1,10 +1,133 @@
 # Weekly Event Results
 
+## June 2021
+
+### 12 June 2021
+
+#### 3x3
+
+| 3x3 Average | Name              | Institute                  |
+| :---------: | ----------------- | -------------------------- |
+|    9.26     | Siddhikant Mishra | IISER Kolkata              |
+|    11.18    | Rounak Sinha Roy  | AISSCE                     |
+|    11.71    | Kartik Bhide      | IISER TVM                  |
+|    12.28    | Vaishakh Kargudri | IISER Pune                 |
+|    12.92    | Yash Jakhmola     | IISER Kolkata              |
+|    12.93    | Nirnoy Barma      | TIGPS Cooch Behar          |
+|    16.01    | Santhosh S        | IISER Berhampur            |
+|    17.35    | Mukul Das         | Goenka College of Commerce |
+|    21.72    | Sushanth G        | IISER Kolkata              |
+|    25.15    | Mayank Agarwal    | IISER Berhampur            |
+|    26.23    | Pranav M G        | IISER Tirupati             |
+|    42.46    | Abhiram M         | IISc                       |
+|    59.64    | Aniket            | IISER Kolkata              |
+
+
+
+#### 3x3 OH
+
+| 3x3 OH Average | Name              | Institute                  |
+| :------------: | ----------------- | -------------------------- |
+|     17.68      | Vaishakh Kargudri | IISER Pune                 |
+|     17.75      | Siddhikant Mishra | IISER Kolkata              |
+|     19.67      | Kartik Bhide      | IISER TVM                  |
+|     29.02      | Yash Jakhmola     | IISER Kolkata              |
+|     35.60      | Mukul Das         | Goenka College of Commerce |
+|     43.43      | Santhosh S        | IISER Berhampur            |
+|    1:08.36     | Rounak Sinha Roy  | AISSCE                     |
+|    1:31.79     | Mayank Agarwal    | IISER Berhampur            |
+
+
+
+
+### 05 June 2021
+
+**4x4 is introduced**
+
+
+#### 3x3
+
+| 3x3 Average | Name              | Institute                  |
+| :---------: | ----------------- | -------------------------- |
+|    9.45     | Siddhikant Mishra | IISER Kolkata              |
+|    10.02    | Aaryan Shah       | IISER Bhopal               |
+|    11.19    | Yash Jakhmola     | IISER Kolkata              |
+|    12.22    | Nirnoy Barma      | TIGPS Cooch Behar          |
+|    13.83    | Satyam Panchal    | Ramjas                     |
+|    14.62    | Neev Shah         | IISER Pune                 |
+|    17.40    | Mukul Das         | Goenka College of Commerce |
+|    18.48    | Vivek Raghuram    | IISER Pune                 |
+|    21.97    | Amoghavarsha A V  | IISER Pune                 |
+|    27.79    | Mayank Agarwal    | IISER Berhampur            |
+|    28.26    | Pranav M G        | IISER Tirupati             |
+|    31.40    | Bhrijesh Mishra   | IISER Berhampur            |
+|    36.89    | Abhiram M         | IISc                       |
+
+
+
+#### 4x4
+
+| 4x4 Average | Name              | Institute         |
+| :---------: | ----------------- | ----------------- |
+|    40.41    | Siddhikant Mishra | IISER Kolkata     |
+|    43.72    | Nabarun Deka      | IISc              |
+|    49.33    | Nirnoy Barma      | TIGPS Cooch Behar |
+|    58.73    | Satyam Panchal    | Ramjas            |
+|   1:01.33   | Yash Jakhmola     | IISER Kolkata     |
+
+
+
+
+---
+
 ## May 2021
+
+### 29 May 2021
+
+**2x2 is introduced**
+
+
+
+#### 3x3
+
+| 3x3 Average | Name              | Institute                                     |
+| :---------: | ----------------- | --------------------------------------------- |
+|    9.64     | Siddhikant Mishra | IISER Kolkata                                 |
+|    10.14    | Yash Jakhmola     | IISER Kolkata                                 |
+|    12.26    | Vaishakh Kargudri | IISER Pune                                    |
+|    12.27    | Nirnoy Barma      | Techno India Group Public School, Cooch Behar |
+|    13.08    | Satyam Panchal    | Ramjas College                                |
+|    13.24    | Sambit Sarkar     | St. Stephen's School                          |
+|    16.05    | Nilesh Pandey     | IISER TVM                                     |
+|    17.28    | Mukul Das         | Goenka College of Commerce                    |
+|    17.63    | Vivek Raghuram    | IISER Pune                                    |
+|    20.97    | Sushanth G        | IISER Kolkata                                 |
+|    27.12    | Mayank Agarwal    | IISER Berhampur                               |
+|    30.29    | Pranav M G        | IISER Tirupati                                |
+|    34.28    | Bhrijesh Mishra   | IISER Berhampur                               |
+|    41.86    | Abhiram M         | IISc                                          |
+
+
+
+#### 2x2
+
+| 2x2 Average | Name              | Institute                  |
+| :---------: | ----------------- | -------------------------- |
+|    3.37     | Siddhikant Mishra | IISER Kolkata              |
+|    4.11     | Yash Jakhmola     | IISER Kolkata              |
+|    4.21     | Sambit Sarkar     | St. Stephen's School       |
+|    4.75     | Vaishakh Kargudri | IISER Pune                 |
+|    5.12     | Vivek Raghuram    | IISER Pune                 |
+|    5.18     | Satyam Panchal    | Ramjas College             |
+|    5.62     | Mukul Das         | Goenka College of Commerce |
+|    5.87     | Nilesh Pandey     | IISER TVM                  |
+
+
 
 ### 22 May 2021
 
 **3x3 OH** is introduced.
+
 
 #### 3x3
 

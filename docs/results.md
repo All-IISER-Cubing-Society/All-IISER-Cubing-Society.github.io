@@ -2,6 +2,36 @@
 
 ## June 2021
 
+### 19th June 2021
+
+#### 3x3
+
+| 3x3 Average | Name              | Institute           |
+| :---------: | ----------------- | ------------------- |
+|    9.44     | Siddhikant Mishra | IISER Kolkata       |
+|    10.88    | Dhruv Agarwal     | The Heritage School |
+|    11.85    | Vaishakh Kargudri | IISER Pune          |
+|    12.41    | Yash Jakhmola     | IISER Kolkata       |
+|    28.15    | Mayank Agarwal    | IISER Berhampur     |
+|    33.36    | Bhrijesh Mishra   | IISER Berhampur     |
+|    41.32    | Abhiram M         | IISc                |
+|    1:43     | Missa Saril       | IISER Berhampur     |
+
+
+
+#### 2x2
+
+| 2x2 Average | Name              | Institute           |
+| :---------: | ----------------- | ------------------- |
+|    4.16     | Siddhikant Mishra | IISER Kolkata       |
+|    4.44     | Yash Jakhmola     | IISER Kolkata       |
+|    4.63     | Dhruv Agarwal     | The Heritage School |
+|    5.55     | Vaishakh Kargudri | IISER Pune          |
+|    18.92    | Mayank Agarwal    | IISER Berhampur     |
+
+
+
+
 ### 12 June 2021
 
 #### 3x3

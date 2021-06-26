@@ -2,7 +2,38 @@
 
 ## June 2021
 
-### 19th June 2021
+### 26 June 2021
+
+#### 3x3
+
+| 3x3 Average | Name              | Institute           |
+| :---------: | ----------------- | ------------------- |
+|    9.52     | Siddhikant Mishra | IISER Kolkata       |
+|    9.75     | Aaryan Shah       | IISER Bhopal        |
+|    11.71    | Vaishakh Kargudri | IISER Pune          |
+|    12.65    | Yash Jakhmola     | IISER Kolkata       |
+|    13.47    | Neev Shah         | IISER Pune          |
+|    16.73    | Vivek Raghuram    | Vidya Valley School |
+|    21.90    | Amoghavarsha A V  | IISER Pune          |
+|    24.20    | Mayank Agarwal    | IISER Berhampur     |
+|    28.85    | Pranav M G        | IISER Tirupati      |
+|    34.29    | Bhrijesh Mishra   | IISER Berhampur     |
+|    36.52    | Abhiram M         | IISc                |
+
+
+
+#### 4x4
+
+| 4x4 Average | Name              | Institute     |
+| :---------: | ----------------- | ------------- |
+|    38.59    | Siddhikant Mishra | IISER Kolkata |
+|    50.50    | Aaryan Shah       | IISER Bhopal  |
+|   1:00.30   | Yash Jakhmola     | IISER Kolkata |
+|   1:00.71   | Vaishakh Kargudri | IISER Pune    |
+
+
+
+### 19 June 2021
 
 #### 3x3
 

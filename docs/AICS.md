@@ -15,7 +15,7 @@ To participate, be present on the WhatsApp group at the given date and time.
 - **Submission Deadline**: 08:00 PM IST
 - **Events:**
     - 3x3
-    - 2x2
+    - 3x3 OH
 
 **Make sure you read the [Rules and Guidelines](/rules).** You may also read the helpful [Video Compression Guide](/compression), which would show a simple way to compress videos recorded from your device. Compression is helpful in case your video file size is getting quite large.
 

@@ -1,5 +1,38 @@
 # Weekly Event Results
 
+## July 2021
+
+### 03 July 2021
+
+#### 3x3
+
+| 3x3 Average | Name              | Institute           |
+| :---------: | :---------------- | :------------------ |
+|    09.40    | Siddhikant Mishra | IISER Kolkata       |
+|    10.96    | Yash Jakhmola     | IISER Kolkata       |
+|    11.56    | Vaishakh Kargudri | IISER Pune          |
+|    15.01    | Satyam Panchal    | Ramjas College      |
+|    18.50    | Vivek Raghuram    | Vidya Valley School |
+|    22.17    | Amoghavarsha A V  | IISER Pune          |
+|    26.59    | Mayank Agarwal    | IISER Berhampur     |
+|    34.58    | Bhrijesh Mishra   | IISER Berhampur     |
+|  01:38.99   | Missa Saril       | IISER Berhampur     |
+
+
+
+#### 3x3 OH
+
+| 3x3 OH Average | Name              | Institute      |
+| :------------: | :---------------- | :------------- |
+|     15.13      | Siddhikant Mishra | IISER Kolkata  |
+|     16.86      | Vaishakh Kargudri | IISER Pune     |
+|     22.00      | Satyam Panchal    | Ramjas College |
+|     28.08      | Yash Jakhmola     | IISER Kolkata  |
+
+
+
+---
+
 ## June 2021
 
 ### 26 June 2021

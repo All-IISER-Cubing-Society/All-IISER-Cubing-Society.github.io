@@ -2,6 +2,58 @@
 
 ## July 2021
 
+### 10 July 2021
+
+#### 3x3
+
+|  AO5  | Name              | Institute            |
+| :---: | :---------------- | :------------------- |
+| 11.85 | Yash Jakhmola     | IISER Kolkata        |
+| 12.29 | Nirnoy Barma      | TIGPS                |
+| 12.55 | Aaryan Shah       | IISER Bhopal         |
+| 12.66 | Vaishakh Kargudri | IISER Pune           |
+| 13.54 | Yash Mehta        | IISc                 |
+| 14.56 | Neev Shah         | IISER Pune           |
+| 18.20 | Vivek Raghuram    | Vidya Valley School  |
+| 21.87 | Sanu Sarkar       | Chittaranjan College |
+| 25.23 | Mayank Agarwal    | IISER Berhampur      |
+| 25.69 | Pranav M G        | IISER Tirupati       |
+| 39.91 | Abhiram M         | IISc                 |
+
+
+
+#### 3x3 OH
+
+|   AO5    | Name              | Institute       |
+| :------: | :---------------- | :-------------- |
+|  17.12   | Vaishakh Kargudri | IISER Pune      |
+|  19.79   | Yash Mehta        | IISc            |
+|  25.01   | Aaryan Shah       | IISER Bhopal    |
+|  25.09   | Yash Jakhmola     | IISER Kolkata   |
+| 01:09.97 | Mayank Agarwal    | IISER Berhampur |
+
+
+
+#### Pyraminx
+
+| AO5  | Name              | Institute  |
+| :--: | :---------------- | :--------- |
+| 3.60 | Neev Shah         | IISER Pune |
+| 9.72 | Vaishakh Kargudri | IISER Pune |
+
+
+
+#### 4x4
+
+|   AO5    | Name              | Institute       |
+| :------: | :---------------- | :-------------- |
+|  40.81   | Nabarun Deka      | IISc            |
+|  55.91   | Yash Jakhmola     | IISER Kolkata   |
+|  57.14   | Vaishakh Kargudri | IISER Pune      |
+| 02:34.88 | Mayank Agarwal    | IISER Berhampur |
+
+
+
 ### 03 July 2021
 
 #### 3x3

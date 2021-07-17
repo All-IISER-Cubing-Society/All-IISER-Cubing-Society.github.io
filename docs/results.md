@@ -2,6 +2,44 @@
 
 ## July 2021
 
+### 17 July 2021
+
+#### 3x3
+
+|  AO5  | Name                  | Institute           |
+| :---: | :-------------------- | :------------------ |
+| 7.66  | Sripad Sarma          | MMC Chennai         |
+| 11.50 | Dhruv Agarwal         | The Heritage School |
+| 12.09 | Vaishakh Kargudri     | IISER Pune          |
+| 12.17 | Yash Jakhmola         | IISER Kolkata       |
+| 12.25 | Satyam Panchal        | Ramjas              |
+| 13.37 | Yash Mehta            | IISc                |
+| 14.92 | Hitesh Kumar Bhuwalka | -                   |
+| 19.09 | Vivek Raghuram        | Vidya Valley School |
+| 26.76 | Mayank Agarwal        | IISER Berhampur     |
+| 28.18 | Pranav M G            | IISER Tirupati      |
+| 33.93 | Bhrijesh Mishra       | IISER Berhampur     |
+
+
+
+#### 5x5
+
+|   AO5    | Name              | Institute           |
+| :------: | :---------------- | :------------------ |
+| 01:45.67 | Dhruv Agarwal     | The Heritage School |
+| 02:13.85 | Vaishakh Kargudri | IISER Pune          |
+| 02:48.03 | Yash Jakhmola     | IISER Kolkata       |
+
+
+
+#### FMC
+
+| Moves | Name       | Institute |
+| :---: | ---------- | :-------- |
+|  38   | Yash Mehta | IISc      |
+
+
+
 ### 10 July 2021
 
 #### 3x3

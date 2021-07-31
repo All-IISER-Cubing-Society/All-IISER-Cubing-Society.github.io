@@ -2,23 +2,87 @@
 
 ## July 2021
 
+### 31 July 2021
+
+#### 3x3
+
+|  AO5  | Name              | Institute                  |
+| :---: | :---------------- | :------------------------- |
+| 8.50  | Siddhikant Mishra | IISER Kolkata              |
+| 11.61 | Vaishakh Kargudri | IISER Pune                 |
+| 12.42 | Yash Mehta        | IISc                       |
+| 13.13 | H Cubist          | -                          |
+| 13.42 | Neev Shah         | IISER Pune                 |
+| 14.94 | Subham Choudhury  | IISER Berhampur            |
+| 17.25 | Mukul Das         | Goenka College of Commerce |
+| 20.10 | Sanu Sarkar       | Chittaranjan College       |
+| 23.99 | Mayank Agarwal    | IISER Berhampur            |
+| 26.81 | Pranav M G        | IISER Tirupati             |
+
+
+
+#### 3x3 OH
+
+|   AO5    | Name              | Institute                  |
+| :------: | :---------------- | :------------------------- |
+|  16.21   | Siddhikant Mishra | IISER Kolkata              |
+|  19.17   | Vaishakh Kargudri | IISER Pune                 |
+|  19.85   | Yash Mehta        | IISc                       |
+|  28.61   | H Cubist          | -                          |
+|  32.64   | Subham Choudhury  | IISER Berhampur            |
+|  39.63   | Mukul Das         | Goenka College of Commerce |
+| 01:08.06 | Mayank Agarwal    | IISER Berhampur            |
+
+
+
+#### 2x2
+
+|  AO5  | Name              | Institute                  |
+| :---: | :---------------- | :------------------------- |
+| 3.67  | Subham Choudhury  | IISER Berhampur            |
+| 4.11  | Siddhikant Mishra | IISER Kolkata              |
+| 4.20  | H Cubist          | -                          |
+| 4.61  | Vaishakh Kargudri | IISER Pune                 |
+| 5.25  | Neev Shah         | IISER Pune                 |
+| 7.90  | Mukul Das         | Goenka College of Commerce |
+| 20.52 | Mayank Agarwal    | IISER Berhampur            |
+
+
+
+#### FMC
+
+| Moves | Name              | Institute       |
+| :---: | :---------------- | :-------------- |
+|  30   | Yash Mehta        | IISc            |
+|  36   | Santhosh S        | IISER Berhampur |
+|  38   | Siddhikant Mishra | IISER Kolkata   |
+|  DNF  | Mayank Agarwal    | IISER Berhampur |
+
+
+
+### 24 July 2021
+
+No event due to Organizing Team ~~slacking off~~ busy in exams and stuff.
+
+
+
 ### 17 July 2021
 
 #### 3x3
 
-|  AO5  | Name                  | Institute           |
-| :---: | :-------------------- | :------------------ |
-| 7.66  | Sripad Sarma          | MMC Chennai         |
-| 11.50 | Dhruv Agarwal         | The Heritage School |
-| 12.09 | Vaishakh Kargudri     | IISER Pune          |
-| 12.17 | Yash Jakhmola         | IISER Kolkata       |
-| 12.25 | Satyam Panchal        | Ramjas              |
-| 13.37 | Yash Mehta            | IISc                |
-| 14.92 | Hitesh Kumar Bhuwalka | -                   |
-| 19.09 | Vivek Raghuram        | Vidya Valley School |
-| 26.76 | Mayank Agarwal        | IISER Berhampur     |
-| 28.18 | Pranav M G            | IISER Tirupati      |
-| 33.93 | Bhrijesh Mishra       | IISER Berhampur     |
+|  AO5  | Name              | Institute           |
+| :---: | :---------------- | :------------------ |
+| 7.66  | Sripad Sarma      | MMC Chennai         |
+| 11.50 | Dhruv Agarwal     | The Heritage School |
+| 12.09 | Vaishakh Kargudri | IISER Pune          |
+| 12.17 | Yash Jakhmola     | IISER Kolkata       |
+| 12.25 | Satyam Panchal    | Ramjas              |
+| 13.37 | Yash Mehta        | IISc                |
+| 14.92 | H Cubist          | -                   |
+| 19.09 | Vivek Raghuram    | Vidya Valley School |
+| 26.76 | Mayank Agarwal    | IISER Berhampur     |
+| 28.18 | Pranav M G        | IISER Tirupati      |
+| 33.93 | Bhrijesh Mishra   | IISER Berhampur     |
 
 
 

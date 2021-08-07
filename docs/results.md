@@ -1,5 +1,54 @@
 # Weekly Event Results
 
+## August 2021
+
+### 07 August 2021
+
+#### 3x3
+
+|  AO5  | Name             | Institute       |
+| :---: | :--------------- | :-------------- |
+| 12.68 | Kartik Bhide     | IISER TVM       |
+| 13.42 | H Cubist         | -               |
+| 14.83 | Neev Shah        | IISER Pune      |
+| 20.20 | Amoghavarsha A V | IISER Pune      |
+| 26.79 | Mayank Agarwal   | IISER Berhampur |
+| 28.86 | Pranav M G       | IISER Tirupati  |
+| 33.04 | Bhrijesh Mishra  | IISER Berhampur |
+| 35.17 | Abhiram M        | IISc            |
+
+
+
+#### 3x3 OH
+
+|   AO5    | Name           | Institute       |
+| :------: | :------------- | :-------------- |
+|  20.30   | Kartik Bhide   | IISER TVM       |
+|  27.71   | H Cubist       | -               |
+|  42.47   | Neev Shah      | IISER Pune      |
+| 01:15.21 | Mayank Agarwal | IISER Berhampur |
+
+
+
+#### 2x2
+
+| AO5  | Name      | Institute  |
+| :--: | :-------- | :--------- |
+| 3.56 | H Cubist  | -          |
+| 4.87 | Neev Shah | IISER Pune |
+
+
+
+#### FMC
+
+| Moves | Name       | Institute       |
+| :---: | ---------- | --------------- |
+|  32   | Santhosh S | IISER Berhampur |
+
+
+
+---
+
 ## July 2021
 
 ### 31 July 2021

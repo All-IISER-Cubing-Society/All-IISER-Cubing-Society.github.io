@@ -2,6 +2,53 @@
 
 ## August 2021
 
+### 14 August 2021
+
+#### 3x3
+
+|  AO5  | Name              | Institute       |
+| :---: | :---------------- | :-------------- |
+| 11.16 | Vaishakh Kargudri | IISER Pune      |
+| 11.54 | H Cubist          | -               |
+| 11.69 | Yash Jakhmola     | IISER Kolkata   |
+| 14.80 | Neev Shah         | IISER Pune      |
+| 17.89 | Vivek Raghuram    | Vidya Valley    |
+| 22.68 | Mayank Agarwal    | IISER Berhampur |
+
+
+
+#### 3x3 OH
+
+|   AO5    | Name              | Institute       |
+| :------: | :---------------- | :-------------- |
+|  10.88   | Sripad Sarma      | MMC, Chennai    |
+|  17.77   | Vaishakh Kargudri | IISER Pune      |
+|  25.46   | Yash Jakhmola     | IISER Kolkata   |
+|  26.03   | H Cubist          | -               |
+| 01:08.06 | Mayank Agarwal    | IISER Berhampur |
+
+
+
+#### 2x2
+
+| AO5  | Name              | Institute     |
+| :--: | :---------------- | :------------ |
+| 3.47 | H Cubist          | -             |
+| 3.71 | Neev Shah         | IISER Pune    |
+| 4.25 | Yash Jakhmola     | IISER Kolkata |
+| 4.87 | Vaishakh Kargudri | IISER Pune    |
+
+
+
+#### 5x5
+
+|   AO5    | Name              | Institute     |
+| :------: | :---------------- | :------------ |
+| 02:13.87 | Vaishakh Kargudri | IISER Pune    |
+| 02:36.53 | Yash Jakhmola     | IISER Kolkata |
+
+
+
 ### 07 August 2021
 
 #### 3x3

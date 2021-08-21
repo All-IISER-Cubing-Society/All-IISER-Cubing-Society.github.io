@@ -2,6 +2,54 @@
 
 ## August 2021
 
+### 21 August 2021
+
+#### 3x3
+
+|  AO5  | Name              | Institute           |
+| :---: | :---------------- | :------------------ |
+| 9.15  | Siddhikant Mishra | IISER Kolkata       |
+| 11.05 | Vaishakh Kargudri | IISER Pune          |
+| 11.87 | H Cubist          | -                   |
+| 14.18 | Neev Shah         | IISER Pune          |
+| 14.76 | Satyam Panchal    | Ramjas              |
+| 19.12 | Vivek Raghuram    | Vidya Valley School |
+| 24.36 | Mayank Agarwal    | IISER Berhampur     |
+| 25.81 | Pranav M G        | IISER Tirupati      |
+
+
+
+#### Pyraminx
+
+|  AO5  | Name              | Institute  |
+| :---: | :---------------- | :--------- |
+| 3.49  | Neev Shah         | IISER Pune |
+| 9.90  | Vaishakh Kargudri | IISER Pune |
+| 11.38 | H Cubist          | -          |
+
+
+
+#### 4x4
+
+|   AO5    | Name              | Institute       |
+| :------: | :---------------- | :-------------- |
+|  39.83   | Siddhikant Mishra | IISER Kolkata   |
+|  59.64   | H Cubist          | -               |
+| 01:01.83 | Satyam Panchal    | Ramjas          |
+| 01:03.69 | Vaishakh Kargudri | IISER Pune      |
+| 01:52.81 | Mayank Agarwal    | IISER Berhampur |
+
+
+
+#### FMC
+
+| Moves | Name              | Institute       |
+| :---: | ----------------- | --------------- |
+|  35   | Santhosh S        | IISER Berhampur |
+|  42   | Siddhikant Mishra | IISER Kolkata   |
+
+
+
 ### 14 August 2021
 
 #### 3x3

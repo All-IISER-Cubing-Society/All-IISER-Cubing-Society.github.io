@@ -1,6 +1,68 @@
 # Weekly Event Results
 
+Results as per [Regulation 9f](https://www.worldcubeassociation.org/regulations/#9f).
+
+FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/#article-E-fewest-moves) and [Regulation 12a](https://www.worldcubeassociation.org/regulations/#12a).
+
+- **AO5**: Average of 5
+- **MO3**: Mean of 3
+- **Moves**: Number of moves in *Outer Block Turn Metric*.
+
 ## August 2021
+
+### 28 August 2021
+
+#### 3x3
+
+|  AO5  | Name                | Institute                                     |
+| :---: | :------------------ | :-------------------------------------------- |
+| 9.53  | Siddhikant Mishra   | IISER Kolkata                                 |
+| 11.85 | H Cubist            | -                                             |
+| 12.35 | Kartik Bhide        | IISER TVM                                     |
+| 13.39 | Satyam Panchal      | Ramjas                                        |
+| 14.00 | Santhosh S          | IISER Berhampur                               |
+| 14.30 | Yash Jakhmola       | IISER Kolkata                                 |
+| 14.75 | Neev Shah           | IISER Pune                                    |
+| 17.17 | Sudipta Kumar Sabar | Khallikote Higher Secondary School, Berhampur |
+| 19.18 | Amoghavarsha A V    | IISER Pune                                    |
+| 26.45 | Mayank Agarwal      | IISER Berhampur                               |
+
+
+
+#### 2x2
+
+| AO5  | Name              | Institute     |
+| :--: | :---------------- | :------------ |
+| 3.59 | H Cubist          | -             |
+| 4.59 | Siddhikant Mishra | IISER Kolkata |
+| 4.80 | Neev Shah         | IISER Pune    |
+| 5.50 | Yash Jakhmola     | IISER Kolkata |
+
+
+
+#### 3x3 OH
+
+|  AO5  | Name              | Institute       |
+| :---: | :---------------- | :-------------- |
+| 15.93 | Siddhikant Mishra | IISER Kolkata   |
+| 20.58 | Kartik Bhide      | IISER TVM       |
+| 23.32 | Satyam Panchal    | Ramjas          |
+| 23.91 | H Cubist          | -               |
+| 24.84 | Yash Jakhmola     | IISER Kolkata   |
+| 58.44 | Mayank Agarwal    | IISER Berhampur |
+
+
+
+#### 5x5
+
+|   MO3    | Name              | Institute     |
+| :------: | :---------------- | :------------ |
+| 01:13.69 | Siddhikant Mishra | IISER Kolkata |
+| 01:27.97 | Kartik Bhide      | IISER TVM     |
+| 02:00.09 | Satyam Panchal    | Ramjas        |
+| 02:21.85 | Yash Jakhmola     | IISER Kolkata |
+
+
 
 ### 21 August 2021
 

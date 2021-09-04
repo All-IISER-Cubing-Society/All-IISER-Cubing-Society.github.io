@@ -8,6 +8,47 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 - **MO3**: Mean of 3
 - **Moves**: Number of moves in *Outer Block Turn Metric*.
 
+
+
+## September 2021
+
+### 04 September 2021
+
+#### 3x3
+
+|  AO5  | Name              | Institute         |
+| :---: | :---------------- | :---------------- |
+| 12.64 | Yash Jakhmola     | IISER Kolkata     |
+| 12.74 | H Cubist          | -                 |
+| 14.46 | Snehal Shirpurkar | Ashoka University |
+| 14.60 | Neev Shah         | IISER Pune        |
+| 20.79 | Sushanth G        | IISER Kolkata     |
+| 22.62 | Mayank Agarwal    | IISER Berhampur   |
+
+
+
+#### 4x4
+
+|   AO5    | Name           | Institute       |
+| :------: | :------------- | :-------------- |
+|  42.19   | Nabarun Deka   | IISc            |
+|  52.05   | H Cubist       | -               |
+| 01:00.31 | Yash Jakhmola  | IISER Kolkata   |
+| 02:01.05 | Mayank Agarwal | IISER Berhampur |
+
+
+
+#### Pyraminx
+
+|  AO5  | Name           | Institute       |
+| :---: | :------------- | :-------------- |
+| 5.17  | Neev Shah      | IISER Pune      |
+| 8.66  | H Cubist       | -               |
+| 12.82 | Yash Jakhmola  | IISER Kolkata   |
+| 14.74 | Mayank Agarwal | IISER Berhampur |
+
+---
+
 ## August 2021
 
 ### 28 August 2021

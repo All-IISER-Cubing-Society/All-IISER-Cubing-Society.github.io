@@ -12,6 +12,48 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## September 2021
 
+### 11 September 2021
+
+**3x3**
+
+|  AO5  | Name              | Institute         |
+| :---: | :---------------- | :---------------- |
+| 8.14  | Siddhikant Mishra | IISER Kolkata     |
+| 11.48 | Yash Jakhmola     | IISER Kolkata     |
+| 11.86 | H Cubist          | -                 |
+| 13.26 | Snehal Shirpurkar | Ashoka University |
+| 14.30 | Neev Shah         | IISER Pune        |
+| 26.93 | Mayank Agarwal    | IISER Berhampur   |
+
+#### 3x3 OH
+
+|  AO5  | Name              | Institute       |
+| :---: | :---------------- | :-------------- |
+| 16.20 | Siddhikant Mishra | IISER Kolkata   |
+| 21.76 | H Cubist          | -               |
+| 22.61 | Yash Jakhmola     | IISER Kolkata   |
+| 59.66 | Mayank Agarwal    | IISER Berhampur |
+
+#### 2x2
+
+| AO5  | Name           | Institute       |
+| :--: | :------------- | :-------------- |
+| 3.87 | H Cubist       | -               |
+| 4.99 | Yash Jakhmola  | IISER Kolkata   |
+| 5.02 | Neev Shah      | IISER Pune      |
+| 9.44 | Mayank Agarwal | IISER Berhampur |
+
+
+
+#### 5x5
+
+|   AO5    | Name              | Institute     |
+| :------: | :---------------- | :------------ |
+| 01:13.93 | Siddhikant Mishra | IISER Kolkata |
+| 02:32.38 | Yash Jakhmola     | IISER Kolkata |
+
+
+
 ### 04 September 2021
 
 #### 3x3

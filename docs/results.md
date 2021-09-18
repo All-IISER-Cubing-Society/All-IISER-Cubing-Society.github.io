@@ -12,6 +12,59 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## September 2021
 
+### 18 September 2021
+
+#### 3x3
+
+|  AO5  | Name              | Institute         |
+| :---: | :---------------- | :---------------- |
+| 8.38  | Siddhikant Mishra | IISER Kolkata     |
+| 11.54 | H Cubist          | -                 |
+| 11.93 | Nirnoy Barma      | TIGPS Cooch Behar |
+| 12.43 | Yash Jakhmola     | IISER Kolkata     |
+| 13.10 | Vaishakh Kargudri | IISER Pune        |
+| 13.75 | Snehal Shirpurkar | Ashoka University |
+| 13.87 | Neev Shah         | IISER Pune        |
+| 24.13 | Mayank Agarwal    | IISER Berhampur   |
+
+
+
+#### 4x4
+
+|   AO5    | Name              | Institute       |
+| :------: | :---------------- | :-------------- |
+|  36.03   | Siddhikant Mishra | IISER Kolkata   |
+|  48.47   | H Cubist          | -               |
+|  54.01   | Vaishakh Kargudri | IISER Pune      |
+| 01:03.55 | Yash Jakhmola     | IISER Kolkata   |
+| 01:49.23 | Mayank Agarwal    | IISER Berhampur |
+
+
+
+#### 2x2
+
+| AO5  | Name              | Institute       |
+| :--: | :---------------- | :-------------- |
+| 3.70 | H Cubist          | -               |
+| 5.45 | Neev Shah         | IISER Pune      |
+| 5.69 | Vaishakh Kargudri | IISER Pune      |
+| 5.79 | Yash Jakhmola     | IISER Kolkata   |
+| 8.39 | Mayank Agarwal    | IISER Berhampur |
+
+
+
+#### Pyraminx
+
+|  AO5  | Name              | Institute       |
+| :---: | :---------------- | :-------------- |
+| 4.21  | Neev Shah         | IISER Pune      |
+| 6.87  | H Cubist          | -               |
+| 8.91  | Vaishakh Kargudri | IISER Pune      |
+| 13.54 | Yash Jakhmola     | IISER Kolkata   |
+| 14.05 | Mayank Agarwal    | IISER Berhampur |
+
+
+
 ### 11 September 2021
 
 **3x3**

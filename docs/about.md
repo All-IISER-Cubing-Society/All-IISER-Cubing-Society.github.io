@@ -18,6 +18,8 @@ The **All IISER Cubing Society (AICS)** is a community to bring together cubers 
   IISER TVM
 
   BSMS 2017-2022
+  
+  WCA ID: [2014BHID02](https://www.worldcubeassociation.org/persons/2014BHID02)
 
 
 
@@ -38,6 +40,16 @@ The **All IISER Cubing Society (AICS)** is a community to bring together cubers 
   IISER Pune
 
   BSMS 2018-2023
+  
+  WCA ID: [2017PARM01](https://www.worldcubeassociation.org/persons/2017PARM01)
+
+
+
+- **Sarthak Thorat**
+
+  IISER TVM
+
+  WCA ID: [2014THOR05](https://www.worldcubeassociation.org/persons/2014THOR05)
 
 
 
@@ -48,6 +60,8 @@ The **All IISER Cubing Society (AICS)** is a community to bring together cubers 
   BSMS 2016-2021
 
   Instagram: [@siddhikant_97](https://www.instagram.com/siddhikant_97/)
+  
+  WCA ID: [2012MISH01](https://www.worldcubeassociation.org/persons/2012MISH01)
 
 
 
@@ -58,6 +72,8 @@ The **All IISER Cubing Society (AICS)** is a community to bring together cubers 
   IISER Pune
 
   BSMS 2020-2025
+  
+  WCA ID: [2017KARG01](https://www.worldcubeassociation.org/persons/2017KARG01)
 
 
 
@@ -72,6 +88,8 @@ The **All IISER Cubing Society (AICS)** is a community to bring together cubers 
   Instagram: [@yash.jakhmola](https://www.instagram.com/yash.jakhmola/)
 
   Quora: [Yash Jakhmola](https://www.quora.com/profile/Yash-Jakhmola-1)
+  
+  WCA ID: [2018JAKH01](https://www.worldcubeassociation.org/persons/2018JAKH01)
 
 
 
@@ -84,4 +102,6 @@ The **All IISER Cubing Society (AICS)** is a community to bring together cubers 
   Batch 2017-2022
 
   Instagram: [@yash_1812](https://www.instagram.com/yash_1812/)
+  
+  WCA ID: [2015MEHT08](https://www.worldcubeassociation.org/persons/2015MEHT08)
 

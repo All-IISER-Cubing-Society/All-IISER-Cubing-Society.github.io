@@ -12,6 +12,50 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## September 2021
 
+### 25 September 2021
+
+#### 3x3
+
+|  AO5  | Name              | Institute           |
+| :---: | :---------------- | :------------------ |
+| 11.51 | Dhruv Agarwal     | The Heritage School |
+| 12.11 | Yash Jakhmola     | IISER Kolkata       |
+| 12.55 | H Cubist          | -                   |
+| 12.97 | Vaishakh Kargudri | IISER Pune          |
+| 13.29 | Snehal Shirpurkar | Ashoka University   |
+| 23.71 | Mayank Agarwal    | IISER Berhampur     |
+| 35.52 | Abhiram M         | IISc                |
+| 36.54 | Bhrijesh Mishra   | IISER Berhampur     |
+
+
+
+#### 3x3 OH
+
+|   AO5    | Name              | Institute           |
+| :------: | :---------------- | :------------------ |
+|  17.63   | Vaishakh Kargudri | IISER Pune          |
+|  18.70   | Dhruv Agarwal     | The Heritage School |
+|  23.64   | H Cubist          | -                   |
+|  24.68   | Yash Jakhmola     | IISER Kolkata       |
+|  59.98   | Mayank Agarwal    | IISER Berhampur     |
+| 01:26.37 | Abhiram M         | IISc                |
+
+
+
+#### 2x2 OH
+
+[Yes, 2x2 OH]
+
+|  AO5  | Name              | Institute           |
+| :---: | :---------------- | :------------------ |
+| 8.36  | Dhruv Agarwal     | The Heritage School |
+| 8.59  | H Cubist          | -                   |
+| 11.51 | Vaishakh Kargudri | IISER Pune          |
+| 15.23 | Yash Jakhmola     | IISER Kolkata       |
+| 23.17 | Mayank Agarwal    | IISER Berhampur     |
+
+
+
 ### 18 September 2021
 
 #### 3x3

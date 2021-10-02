@@ -1,3 +1,5 @@
+
+
 # Weekly Event Results
 
 Results as per [Regulation 9f](https://www.worldcubeassociation.org/regulations/#9f).
@@ -9,6 +11,41 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 - **Moves**: Number of moves in *Outer Block Turn Metric*.
 
 
+
+## October 2021
+
+### 02 October 2021
+
+#### 3x3
+
+|  AO5  | Name           | Institute       |
+| :---: | :------------- | :-------------- |
+| 10.96 | H Cubist       | -               |
+| 14.83 | Neev Shah      | IISER Pune      |
+| 23.20 | Mayank Agarwal | IISER Berhampur |
+
+
+
+#### 2x2
+
+| AO5  | Name           | Institute       |
+| :--: | :------------- | :-------------- |
+| 3.56 | H Cubist       | -               |
+| 5.01 | Neev Shah      | IISER Pune      |
+| 8.51 | Mayank Agarwal | IISER Berhampur |
+
+
+
+#### 4x4
+
+|   AO5    | Name           | Institute       |
+| :------: | :------------- | :-------------- |
+|  46.57   | H Cubist       | -               |
+| 01:54.99 | Mayank Agarwal | IISER Berhampur |
+
+
+
+---
 
 ## September 2021
 

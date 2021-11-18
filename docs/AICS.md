@@ -12,8 +12,8 @@ We currently hold **Weekly Online Cubing Events**, on weekends.
 
 We are hosting a workshop on teaching absolute beginners How to Solve a Rubik's Cube.
 
-**Date:** 20-21 November, 2021 
-**Time:** 20 November, Saturday, 6 PM onwards
+- **Date:** 20-21 November, 2021 
+- **Time:** 20 November, Saturday, 6 PM onwards
 
 **Registration Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSdrdBgehfER1SzicEPBzJzukVBTcP-pSO6Zpp_JGTmRw1mJDQ/viewform
 

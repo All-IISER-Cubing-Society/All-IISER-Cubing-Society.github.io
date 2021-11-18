@@ -8,11 +8,29 @@ We currently hold **Weekly Online Cubing Events**, on weekends.
 
 !> Site details may not be updated as frequently as necessary due to the site maintainer ~~being lazy~~ not being always available. If you are in the WhatsApp Group, the latest updates will always be available there.
 
+## How to Solve a Rubik's Cube
+
+We are hosting a workshop on teaching absolute beginners How to Solve a Rubik's Cube.
+
+**Date:** 20-21 November, 2021 
+**Time:** 20 November, Saturday, 6 PM onwards
+
+**Registration Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSdrdBgehfER1SzicEPBzJzukVBTcP-pSO6Zpp_JGTmRw1mJDQ/viewform
+
+The workshop may be held in more than one session if required.
+
+<img src="Media/aics-how-to-solve-rubiks-cube.jpeg" width="350px" style="display:block; margin: auto;" />
+
+## Joining AICS
+
+If you are a cuber or a person interested in cubing, we invite you to join AICS.
+WhatsApp Group Link: https://chat.whatsapp.com/C9VNzsjt2cXGsIeY2XMYHc
+
 ## Weekly Online Event
 
 To participate, be present on the WhatsApp group at the given date and time, or use the Form Link directly.
 
-- **Date:** 16<sup>th</sup> October 2021, Saturday
+- **Date:** 28<sup>th</sup> November 2021, Saturday
 - **Time:** 06:00 PM IST
 - **Submission Deadline**: 09:00 PM IST
 - **Events:**

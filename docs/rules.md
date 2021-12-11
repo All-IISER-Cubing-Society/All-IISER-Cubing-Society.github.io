@@ -3,9 +3,9 @@
 
 ## Recording the Solve
 
-- If you expect to be in the Top 5, you must record all your solves. If you are just participating for fun, it is not necessary to record, although we recommend that you do so. 
-- **Record all the 5 scrambles + solves in a single video.** This is to reduce the possibilities of cheating. 
-- All the solves must be recorded and uploaded in the Google Form provided **within 40 minutes** of the start of the event.
+- It is not necessary to record the solves, but we certainly recommend you to do so, if you can.
+- You can also refer to the [Video Compression Guide](/compression) guide for compressing the videos.
+- Upload the videos on the Google Form.
 
 
 
@@ -40,14 +40,9 @@
 
 
 
-## Scoring
+## Scoring and Results
 
 - The Team will verify the uploaded videos and present the scores as soon as possible.
 
 - If there are enough members participating, we would also keep an institute leader-board with some appropriate statistics.
 
-  
-
-## Results
-
-- The person with the best average will be declared the winner of the competition.

@@ -11,6 +11,85 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 - **Moves**: Number of moves in *Outer Block Turn Metric*.
 
 
+## December 2021
+
+### 11 December 2021
+
+#### 3x3
+
+|  AO5  | Name                  | Institute                                     |
+|:-----:|:----------------------|:----------------------------------------------|
+| 10.87 | Saseeth Srilok Majeti | Chinmaya Vidyalaya                            |
+| 11.35 | Vaishakh Kargudri     | IISER Pune                                    |
+| 11.51 | Yash Jakhmola         | IISER Kolkata                                 |
+| 12.60 | Vaidik Prasal         | IISER Pune                                    |
+| 13.82 | Santhosh S            | IISER Berhampur                               |
+| 14.08 | Snehal Shirpurkar     | Ashoka University                             |
+| 16.21 | Sudipta Kumar Sabar   | Khallikote Higher Secondary School, Berhampur |
+| 18.42 | Amoghavarsha A V      | IISER Pune                                    |
+| 20.24 | Tanmaay Jena          | IISER Pune                                    |
+| 20.86 | Mayank Agarwal        | IISER Berhampur                               |
+| 21.65 | Ishaan Chaudhary      | IISER Pune                                    |
+| 22.64 | Sushanth G            | IISER Kolkata                                 |
+| 30.38 | Ameya Mane            | IISER Pune                                    |
+| 36.21 | Abhiram M             | IISc                                          |
+
+#### 3x3 OH
+
+|  AO5  | Name                  | Institute                                     |
+|:-----:|:----------------------|:----------------------------------------------|
+| 15.52 | Saseeth Srilok Majeti | Chinmaya Vidyalaya                            |
+| 17.61 | Vaishakh Kargudri     | IISER Pune                                    |
+| 23.60 | Yash Jakhmola         | IISER Kolkata                                 |
+| 48.30 | Sudipta Kumar Sabar   | Khallikote Higher Secondary School, Berhampur |
+| 51.48 | Mayank Agarwal        | IISER Berhampur                               |
+
+#### Pyraminx
+
+|  AO5  | Name                  | Institute          |
+|:-----:|:----------------------|:-------------------|
+| 7.65  | Vaishakh Kargudri     | IISER Pune         |
+| 9.38  | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+| 10.19 | Ameya Mane            | IISER Pune         |
+| 22.03 | Yash Jakhmola         | IISER Kolkata      |
+
+
+### 04 December 2021
+
+#### 3x3
+
+|  AO5  | Name                  | Institute          |
+|:-----:|:----------------------|:-------------------|
+| 10.44 | H Cubist              | -                  |
+| 11.26 | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+| 11.51 | Advait Pai            | IISc               |
+| 13.42 | Yash Jakhmola         | IISER Kolkata      |
+| 18.04 | Amoghavarsha A V      | IISER Pune         |
+| 22.40 | Pranav M G            | IISER Tirupati     |
+| 36.69 | Abhiram M             | IISc               |
+
+#### 2x2 OH
+
+|  AO5  | Name                  | Institute          |
+|:-----:|:----------------------|:-------------------|
+| 11.31 | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+| 11.62 | Advait Pai            | IISc               |
+| 14.45 | Yash Jakhmola         | IISER Kolkata      |
+| 43.79 | Abhiram M             | IISc               |
+
+#### 5x5
+
+|   MO3    | Name                  | Institute          |
+|:--------:|:----------------------|:-------------------|
+| 01:56.63 | Advait Pai            | IISc               |
+| 02:06.78 | H Cubist              | -                  |
+| 02:15.02 | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+| 02:25.34 | Yash Jakhmola         | IISER Kolkata      |
+| 07:26.94 | Abhiram M             | IISc               |
+
+
+---
+
 ## November 2021
 
 ### 27 November 2021

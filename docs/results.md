@@ -13,6 +13,39 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## December 2021
 
+### 18 December 2021
+
+#### 3x3
+
+|  AO5  | Name                   | Institute          |
+|:-----:|:-----------------------|:-------------------|
+| 9.56  | Siddhikant Mishra      | IISER Kolkata      |
+| 11.60 | Saseeth Srilok Majeti  | Chinmaya Vidyalaya |
+| 12.42 | Vaidik Prasal          | IISER Pune         |
+| 14.21 | Snehal Shirpurkar      | Ashoka University  |
+| 17.10 | Aritra Bose            | Don Bosco Liluah   |
+| 18.90 | Tanmaay Jena           | IISER Pune         |
+| 19.95 | Mayank Agarwal         | IISER Berhampur    |
+| 20.68 | Ishaan Chaudhary       | IISER Pune         |
+| 23.17 | Lalithkumaar Muniyandi | IISER Tirupati     |
+| 36.01 | Abhiram M              | IISc               |
+
+#### 4x4
+
+|   AO5    | Name                  | Institute          |
+|:--------:|:----------------------|:-------------------|
+|  38.50   | Siddhikant Mishra     | IISER Kolkata      |
+|  44.74   | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+| 01:29.69 | Snehal Shirpurkar     | Ashoka University  |
+| 01:40.04 | Mayank Agarwal        | IISER Berhampur    |
+
+#### 3x3 Rescramble
+
+|   MO3    | Name              | Institute         |
+|:--------:|:------------------|:------------------|
+| 01:26.10 | Snehal Shirpurkar | Ashoka University |
+
+
 ### 11 December 2021
 
 #### 3x3

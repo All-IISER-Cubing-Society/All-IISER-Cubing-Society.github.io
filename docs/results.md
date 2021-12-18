@@ -14,6 +14,93 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## October 2021
 
+### 30 October 2021
+
+#### 3x3
+
+|  AO5  | Name              | Institute       |
+|:-----:|:------------------|:----------------|
+| 10.07 | H Cubist          | -               |
+| 11.52 | Vaishakh Kargudri | IISER Pune      |
+| 12.74 | Yash Jakhmola     | IISER Kolkata   |
+| 18.93 | Amoghavarsha A V  | IISER Pune      |
+| 22.22 | Mayank Agarwal    | IISER Berhampur |
+| 30.75 | Abhiram M         | IISc            |
+
+#### 4x4
+
+|   AO5    | Name              | Institute       |
+|:--------:|:------------------|:----------------|
+|  39.68   | H Cubist          | -               |
+|  49.14   | Kartik Bhide      | IISER TVM       |
+|  56.66   | Vaishakh Kargudri | IISER Pune      |
+|  58.11   | Yash Jakhmola     | IISER Kolkata   |
+| 01:48.78 | Mayank Agarwal    | IISER Berhampur |
+
+#### Pyraminx OH
+
+|  AO5  | Name              | Institute     |
+|:-----:|:------------------|:--------------|
+| 44.11 | Vaishakh Kargudri | IISER Pune    |
+|  DNF  | Yash Jakhmola     | IISER Kolkata |
+
+
+### 23 October 2021
+
+#### 3x3
+
+|  AO5  | Name                | Institute                                     |
+|:-----:|:--------------------|:----------------------------------------------|
+| 10.22 | H Cubist            | -                                             |
+| 11.95 | Vaishakh Kargudri   | IISER Pune                                    |
+| 13.93 | Satyam Panchal      | Ramjas                                        |
+| 15.70 | Sudipta Kumar Sabar | Khallikote Higher Secondary School, Berhampur |
+| 17.87 | Amoghavarsha A V    | IISER Pune                                    |
+| 20.69 | Mayank Agarwal      | IISER Berhampur                               |
+| 28.43 | Abhiram M           | IISc                                          |
+
+#### 3x3 OH
+
+|  AO5  | Name                | Institute                                     |
+|:-----:|:--------------------|:----------------------------------------------|
+| 17.75 | Vaishakh Kargudri   | IISER Pune                                    |
+| 21.07 | H Cubist            | -                                             |
+| 23.03 | Satyam Panchal      | Ramjas                                        |
+| 49.25 | Mayank Agarwal      | IISER Berhampur                               |
+| 53.32 | Sudipta Kumar Sabar | Khallikote Higher Secondary School, Berhampur |
+
+#### 2x2 OH
+
+|  AO5  | Name              | Institute       |
+|:-----:|:------------------|:----------------|
+| 6.55  | H Cubist          | -               |
+| 10.44 | Vaishakh Kargudri | IISER Pune      |
+| 29.23 | Mayank Agarwal    | IISER Berhampur |
+
+
+### 16 October 2021
+
+#### 3x3
+
+|  AO5  | Name              | Institute       |
+|:-----:|:------------------|:----------------|
+| 10.68 | Vaishakh Kargudri | IISER Pune      |
+| 10.83 | H Cubist          | -               |
+| 12.08 | Satyam Panchal    | Ramjas          |
+| 18.13 | Amoghavarsha A V  | IISER Pune      |
+| 24.42 | Mayank Agarwal    | IISER Berhampur |
+| 32.61 | Abhiram M         | IISc            |
+
+#### 4x4
+
+|   AO5    | Name              | Institute       |
+|:--------:|:------------------|:----------------|
+|  40.08   | H Cubist          | -               |
+|  42.46   | Nabarun Deka      | IISc            |
+|  51.08   | Vaishakh Kargudri | IISER Pune      |
+| 01:44.55 | Mayank Agarwal    | IISER Berhampur |
+
+
 ### 09 October 2021
 
 #### 3x3

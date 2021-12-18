@@ -11,6 +11,108 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 - **Moves**: Number of moves in *Outer Block Turn Metric*.
 
 
+## November 2021
+
+### 27 November 2021
+
+#### 3x3
+
+|  AO5  | Name                  | Institute          |
+|:-----:|:----------------------|:-------------------|
+| 11.08 | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+| 11.98 | Vaishakh Kargudri     | IISER Pune         |
+| 13.34 | Satyam Panchal        | Ramjas             |
+| 13.81 | Snehal Shirpurkar     | Ashoka University  |
+| 14.02 | Santhosh S            | IISER Berhampur    |
+| 17.07 | Amoghavarsha A V      | IISER Pune         |
+| 20.46 | Mayank Agarwal        | IISER Berhampur    |
+
+#### 3x3 OH
+
+|  AO5  | Name                  | Institute          |
+|:-----:|:----------------------|:-------------------|
+| 14.46 | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+| 17.51 | Vaishakh Kargudri     | IISER Pune         |
+| 23.10 | Satyam Panchal        | Ramjas             |
+| 49.36 | Mayank Agarwal        | IISER Berhampur    |
+
+#### 2x2
+
+|  AO5  | Name                  | Institute          |
+|:-----:|:----------------------|:-------------------|
+| 3.90  | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+| 5.05  | Satyam Panchal        | Ramjas             |
+| 5.62  | Snehal Shirpurkar     | Ashoka University  |
+| 5.79  | Vaishakh Kargudri     | IISER Pune         |
+| 7.72  | Mayank Agarwal        | IISER Berhampur    |
+
+
+### 20 November 2021
+
+We held the "How to solve a Rubik's Cube" Workshop this weekend.
+
+### 13 November 2021
+
+#### 3x3
+
+|  AO5  | Name              | Institute         |
+|:-----:|:------------------|:------------------|
+| 8.43  | H Cubist          | -                 |
+| 12.08 | Vaishakh Kargudri | IISER Pune        |
+| 12.66 | Satyam            | Ramjas            |
+| 13.29 | Snehal Shirpurkar | Ashoka University |
+| 21.38 | Mayank Agarwal    | IISER Berhampur   |
+| 24.54 | Pranav M G        | IISER Tirupati    |
+| 26.15 | Abhiram           | IISc              |
+
+#### 3x3 OH
+
+|  AO5  | Name              | Institute       |
+|:-----:|:------------------|:----------------|
+| 19.23 | H Cubist          | -               |
+| 19.65 | Vaishakh Kargudri | IISER Pune      |
+| 23.80 | Satyam            | Ramjas          |
+| 46.66 | Mayank Agarwal    | IISER Berhampur |
+
+#### 4x4
+
+|   AO5    | Name           | Institute       |
+|:--------:|:---------------|:----------------|
+|  40.38   | H Cubist       | -               |
+| 01:03.10 | Satyam         | Ramjas          |
+| 01:39.71 | Mayank Agarwal | IISER Berhampur |
+
+### 06 November 2021
+
+#### 3x3
+
+|  AO5  | Name                | Institute                                     |
+|:-----:|:--------------------|:----------------------------------------------|
+| 12.06 | Yash Jakhmola       | IISER Kolkata                                 |
+| 13.92 | Vaishakh Kargudri   | IISER Pune                                    |
+| 14.00 | Snehal Shirpurkar   | Ashoka University                             |
+| 16.07 | Sudipta Kumar Sabar | Khallikote Higher Secondary School, Berhampur |
+| 27.89 | Abhiram             | IISc                                          |
+
+#### 2x2
+
+|  AO5  | Name              | Institute         |
+|:-----:|:------------------|:------------------|
+| 5.06  | Yash Jakhmola     | IISER Kolkata     |
+| 5.88  | Snehal Shirpurkar | Ashoka University |
+| 6.68  | Vaishakh Kargudri | IISER Pune        |
+| 14.91 | Abhiram           | IISc              |
+
+#### 3x3 Rescramble
+
+|  MO3   | Name              | Institute         |
+|:-----: |:------------------|:------------------|
+| 88.97  | Snehal Shirpurkar | Ashoka University |
+| 177.55 | Yash Jakhmola     | IISER Kolkata     |
+| 232.99 | Vaishakh Kargudri | IISER Pune        |
+
+
+---
 
 ## October 2021
 

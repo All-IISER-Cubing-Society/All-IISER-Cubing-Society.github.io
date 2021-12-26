@@ -13,6 +13,43 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## December 2021
 
+### 25 December 2021
+
+#### 3x3
+
+|  AO5  | Name                  | Institute          |
+| :---: | :-------------------- | :----------------- |
+| 10.11 | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+| 10.98 | Vaishakh Kargudri     | IISER Pune         |
+| 11.88 | Yash Jakhmola         | IISER Kolkata      |
+| 12.82 | Snehal Shirpurkar     | Ashoka University  |
+| 13.41 | Vaidik Prasal         | IISER Pune         |
+| 18.86 | Tanmaay Jena          | IISER Pune         |
+| 18.87 | Amoghavarsha A V      | IISER Pune         |
+| 22.89 | Lalithkumaar          | IISER Tirupati     |
+| 24.24 | Ishaan Chaudhary      | IISER Pune         |
+
+
+
+#### 3x3 OH
+
+|  AO5  | Name                  | Institute          |
+| :---: | :-------------------- | :----------------- |
+| 16.18 | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+| 17.89 | Vaishakh Kargudri     | IISER Pune         |
+| 27.67 | Yash Jakhmola         | IISER Kolkata      |
+| 56.10 | Ishaan Chaudhary      | IISER Pune         |
+
+
+
+#### 2x2
+
+| AO5  | Name              | Institute         |
+| :--: | :---------------- | :---------------- |
+| 4.73 | Vaishakh Kargudri | IISER Pune        |
+| 4.90 | Snehal Shirpurkar | Ashoka University |
+| 4.91 | Yash Jakhmola     | IIS
+
 ### 18 December 2021
 
 #### 3x3

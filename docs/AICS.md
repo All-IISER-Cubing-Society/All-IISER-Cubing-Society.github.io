@@ -17,7 +17,7 @@ WhatsApp Group Link: https://chat.whatsapp.com/C9VNzsjt2cXGsIeY2XMYHc
 
 To participate, be present on the WhatsApp group at the given date and time, or use the Form Link directly.
 
-- **Date:** 25<sup>th</sup> December 2021, Saturday
+- **Date:** 1<sup>st</sup> January 2022, Saturday
 - **Time:** 04:00 PM IST
 - **Submission Deadline**: 09:00 PM IST
 - **Events:**

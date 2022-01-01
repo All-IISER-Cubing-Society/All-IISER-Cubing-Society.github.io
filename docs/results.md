@@ -13,6 +13,50 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## December 2021
 
+### 31 December 2021
+
+Special Event on Friday (instead of the usual Saturday) to commemorate the end of year.
+
+#### 3x3
+
+|  AO5  | Name                   | Institute          |
+|:-----:|:-----------------------|:-------------------|
+| 9.26  | Siddhikant Mishra      | IISER Kolkata      |
+| 10.53 | H Cubist               | -                  |
+| 11.20 | Saseeth Srilok Majeti  | Chinmaya Vidyalaya |
+| 12.31 | Yash Jakhmola          | IISER Kolkata      |
+| 12.56 | Satyam Panchal         | Ramjas College     |
+| 13.00 | Vaidik Prasal          | IISER Pune         |
+| 14.08 | Snehal Shirpurkar      | Ashoka University  |
+| 16.80 | Tanmaay Jena           | IISER Pune         |
+| 19.75 | Amoghavarsha A V       | IISER Pune         |
+| 20.96 | Lalithkumaar Muniyandi | IISER Tirupati     |
+| 22.54 | Aritra Bose            | Don Bosco Liluah   |
+| 23.12 | Pranav M G             | IISER Tirupati     |
+| 23.27 | Ishaan Chaudhary       | IISER Pune         |
+| 23.58 | Mayank Agarwal         | IISER Berhampur    |
+| 30.11 | Abhiram M              | IISc               |
+
+#### 4x4
+
+|   AO5    | Name                  | Institute          |
+|:--------:|:----------------------|:-------------------|
+|  43.06   | H Cubist              | -                  |
+|  47.22   | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+|  57.97   | Satyam Panchal        | Ramjas College     |
+|  58.21   | Yash Jakhmola         | IISER Kolkata      |
+| 01:29.30 | Snehal Shirpurkar     | Ashoka University  |
+| 01:43.23 | Mayank Agarwal        | IISER Berhampur    |
+
+#### 5x5
+
+|   MO3    | Name                  | Institute          |
+|:--------:|:----------------------|:-------------------|
+| 01:37.44 | H Cubist              | -                  |
+| 01:46.11 | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+| 01:57.80 | Satyam Panchal        | Ramjas College     |
+| 02:22.73 | Yash Jakhmola         | IISER Kolkata      |
+
 ### 25 December 2021
 
 #### 3x3

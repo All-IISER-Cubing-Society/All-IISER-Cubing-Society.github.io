@@ -791,14 +791,14 @@ We held the "How to solve a Rubik's Cube" Workshop this weekend.
 
 #### 3x3
 
-|  AO5  | Name              | Institute       |
-| :---: | :---------------- | :-------------- |
-| 11.16 | Vaishakh Kargudri | IISER Pune      |
-| 11.54 | H Cubist          | -               |
-| 11.69 | Yash Jakhmola     | IISER Kolkata   |
-| 14.80 | Neev Shah         | IISER Pune      |
-| 17.89 | Vivek Raghuram    | Vidya Valley    |
-| 22.68 | Mayank Agarwal    | IISER Berhampur |
+|  AO5  | Name              | Institute            |
+| :---: | :---------------- | :------------------- |
+| 11.16 | Vaishakh Kargudri | IISER Pune           |
+| 11.54 | H Cubist          | -                    |
+| 11.69 | Yash Jakhmola     | IISER Kolkata        |
+| 14.80 | Neev Shah         | IISER Pune           |
+| 17.89 | Vivek Raghuram    | Vidya Valley School  |
+| 22.68 | Mayank Agarwal    | IISER Berhampur      |
 
 
 
@@ -1185,7 +1185,7 @@ No event due to Organizing Team ~~slacking off~~ busy in exams and stuff.
 |    13.83    | Satyam Panchal    | Ramjas                     |
 |    14.62    | Neev Shah         | IISER Pune                 |
 |    17.40    | Mukul Das         | Goenka College of Commerce |
-|    18.48    | Vivek Raghuram    | IISER Pune                 |
+|    18.48    | Vivek Raghuram    | Vidya Valley School        |
 |    21.97    | Amoghavarsha A V  | IISER Pune                 |
 |    27.79    | Mayank Agarwal    | IISER Berhampur            |
 |    28.26    | Pranav M G        | IISER Tirupati             |
@@ -1229,7 +1229,7 @@ No event due to Organizing Team ~~slacking off~~ busy in exams and stuff.
 |    13.24    | Sambit Sarkar     | St. Stephen's School                          |
 |    16.05    | Nilesh Pandey     | IISER TVM                                     |
 |    17.28    | Mukul Das         | Goenka College of Commerce                    |
-|    17.63    | Vivek Raghuram    | IISER Pune                                    |
+|    17.63    | Vivek Raghuram    | Vidya Valley School                           |
 |    20.97    | Sushanth G        | IISER Kolkata                                 |
 |    27.12    | Mayank Agarwal    | IISER Berhampur                               |
 |    30.29    | Pranav M G        | IISER Tirupati                                |
@@ -1246,7 +1246,7 @@ No event due to Organizing Team ~~slacking off~~ busy in exams and stuff.
 |    4.11     | Yash Jakhmola     | IISER Kolkata              |
 |    4.21     | Sambit Sarkar     | St. Stephen's School       |
 |    4.75     | Vaishakh Kargudri | IISER Pune                 |
-|    5.12     | Vivek Raghuram    | IISER Pune                 |
+|    5.12     | Vivek Raghuram    | Vidya Valley School        |
 |    5.18     | Satyam Panchal    | Ramjas College             |
 |    5.62     | Mukul Das         | Goenka College of Commerce |
 |    5.87     | Nilesh Pandey     | IISER TVM                  |
@@ -1269,7 +1269,7 @@ No event due to Organizing Team ~~slacking off~~ busy in exams and stuff.
 |    12.96    | Satyam Panchal    | Ramjas College (DU)        |
 |    13.48    | Archith Telukunta | IISER Tirupati             |
 |    17.92    | Mukul Das         | Goenka College of Commerce |
-|    19.31    | Vivek Raghuram    | IISER Pune                 |
+|    19.31    | Vivek Raghuram    | Vidya Valley School        |
 |    21.85    | Sushanth G        | IISER Kolkata              |
 |    23.93    | Neelesh Mishra    | Inventure Academy          |
 |    24.79    | Mayank Agarwal    | IISER Berhampur            |
@@ -1308,7 +1308,7 @@ No event due to Organizing Team ~~slacking off~~ busy in exams and stuff.
 |  15.29  | Santhosh            | IISER Berhampur                  |
 |  15.33  | Neev Shah           | IISER Pune                       |
 |  16.67  | Mukul Das           | Goenka College of Commerce       |
-|  21.08  | Vivek Raghuram      | IISER Pune                       |
+|  21.08  | Vivek Raghuram      | Vidya Valley School              |
 |  22.56  | Sushanth G          | IISER Kolkata                    |
 |  27.83  | Aalam Enso          | IISER Pune                       |
 |  28.39  | Amoghavarsha A V    | IISER Pune                       |
@@ -1328,7 +1328,7 @@ No event due to Organizing Team ~~slacking off~~ busy in exams and stuff.
 |  12.54  | Vaishakh Kargudri | IISER Pune                       |
 |  15.27  | Neev Shah         | IISER Pune                       |
 |  16.91  | Mukul Das         | Goenka College of Commerce       |
-|  18.91  | Vivek Raghuram    | IISER Pune                       |
+|  18.91  | Vivek Raghuram    | Vidya Valley School              |
 |  20.97  | Sushanth G        | IISER Kolkata                    |
 |  24.40  | Aalam Enso        | IISER Pune                       |
 |  28.15  | Mayank Agarwal    | IISER Berhampur                  |
@@ -1356,7 +1356,7 @@ No event due to Organizing Team ~~slacking off~~ busy in exams and stuff.
 |  15.35  | Neev Shah              | IISER Pune             |
 |  16.69  | Santhosh S             | IISER Berhampur        |
 |  16.78  | Mukul Das              | Goenka College         |
-|  19.75  | Vivek Raghuram         | IISER Pune             |
+|  19.75  | Vivek Raghuram         | Vidya Valley School    |
 |  20.41  | Sushanth G             | IISER Kolkata          |
 |  31.08  | Mayank Agarwal         | IISER Berhampur        |
 |  32.03  | Pranav M G             | IISER Tirupati         |
@@ -1385,7 +1385,7 @@ No event due to Organizing Team ~~slacking off~~ busy in exams and stuff.
 |  18.44  | Gourav Mukherjee       | St. Xavier's Institution           |
 |  19.70  | Mukul Das              | CU                                 |
 |  20.84  | Sushanth G             | IISER Kolkata                      |
-|  21.99  | Vivek Raghuram         | IISER Pune                         |
+|  21.99  | Vivek Raghuram         | Vidya Valley School                |
 |  23.05  | Ayush Das              | IISER Pune                         |
 |  23.49  | Amoghavarsha A V       | IISER Pune                         |
 |  27.38  | Aalam Enso             | IISER Pune                         |
@@ -1400,42 +1400,42 @@ No event due to Organizing Team ~~slacking off~~ busy in exams and stuff.
 
 The event has now been made open for all.
 
-| Average | Name                   | Institute       |
-| :-----: | ---------------------- | --------------- |
-|  9.27   | Siddhikant Mishra      | IISER Kolkata   |
-|  10.64  | Yash Jakhmola          | IISER Kolkata   |
-|  10.72  | Aaryan Shah            | IISER Bhopal    |
-|  11.42  | Vaishakh Kargudri      | IISER Pune      |
-|  12.51  | Nirnoy Barma           | -               |
-|  14.63  | Archith Telukunta      | IISER Tirupati  |
-|  14.72  | Neev Shah              | IISER Pune      |
-|  17.14  | Santhosh S             | IISER Berhampur |
-|  18.34  | Lalithkumaar Muniyandi | IISER Tirupati  |
-|  19.59  | Vivek Raghuram         | IISER Pune      |
-|  20.88  | Sushanth G             | IISER Kolkata   |
-|  30.63  | Mayank Agarwal         | IISER Berhampur |
-|  31.65  | Pranav M G             | IISER Tirupati  |
-|  56.61  | Abhiram M              | IISc            |
+| Average | Name                   | Institute           |
+| :-----: | ---------------------- | ------------------- |
+|  9.27   | Siddhikant Mishra      | IISER Kolkata       |
+|  10.64  | Yash Jakhmola          | IISER Kolkata       |
+|  10.72  | Aaryan Shah            | IISER Bhopal        |
+|  11.42  | Vaishakh Kargudri      | IISER Pune          |
+|  12.51  | Nirnoy Barma           | -                   |
+|  14.63  | Archith Telukunta      | IISER Tirupati      |
+|  14.72  | Neev Shah              | IISER Pune          |
+|  17.14  | Santhosh S             | IISER Berhampur     |
+|  18.34  | Lalithkumaar Muniyandi | IISER Tirupati      |
+|  19.59  | Vivek Raghuram         | Vidya Valley School |
+|  20.88  | Sushanth G             | IISER Kolkata       |
+|  30.63  | Mayank Agarwal         | IISER Berhampur     |
+|  31.65  | Pranav M G             | IISER Tirupati      |
+|  56.61  | Abhiram M              | IISc                |
 
 
 
 ### 10 April 2021
 
-| Average | Name              | Institute       |
-| :-----: | ----------------- | --------------- |
-|  8.80   | Siddhikant Mishra | IISER Kolkata   |
-|  9.71   | Aaryan Shah       | IISER Bhopal    |
-|  10.56  | Abhay Gupta       | IISER Mohali    |
-|  12.63  | Yash Jakhmola     | IISER Kolkata   |
-|  14.78  | Archith Telukunta | IISER Tirupati  |
-|  14.82  | Neev Shah         | IISER Pune      |
-|  18.55  | Santhosh S        | IISER Berhampur |
-|  20.09  | Vivek Raghuram    | IISER Pune      |
-|  21.02  | Sushanth G        | IISER Kolkata   |
-|  34.82  | Pranav M G        | IISER Tirupati  |
-|  45.71  | Bhrijesh Mishra   | IISER Berhampur |
-|  58.27  | Abhiram M         | IISc            |
-| 1:02.81 | Sweta Sethi       | IISER Berhampur |
+| Average | Name              | Institute           |
+| :-----: | ----------------- | ------------------- |
+|  8.80   | Siddhikant Mishra | IISER Kolkata       |
+|  9.71   | Aaryan Shah       | IISER Bhopal        |
+|  10.56  | Abhay Gupta       | IISER Mohali        |
+|  12.63  | Yash Jakhmola     | IISER Kolkata       |
+|  14.78  | Archith Telukunta | IISER Tirupati      |
+|  14.82  | Neev Shah         | IISER Pune          |
+|  18.55  | Santhosh S        | IISER Berhampur     |
+|  20.09  | Vivek Raghuram    | Vidya Valley School |
+|  21.02  | Sushanth G        | IISER Kolkata       |
+|  34.82  | Pranav M G        | IISER Tirupati      |
+|  45.71  | Bhrijesh Mishra   | IISER Berhampur     |
+|  58.27  | Abhiram M         | IISc                |
+| 1:02.81 | Sweta Sethi       | IISER Berhampur     |
 
 ---
 
@@ -1466,7 +1466,7 @@ The videos:
 |  13.05  | Yash Jakhmola          | IISER Kolkata            |
 |  14.77  | Archith Telukunta      | IISER Tirupati           |
 |  17.67  | Neev Shah              | IISER Pune               |
-|  19.55  | Vivek Raghuram         | IISER Pune               |
+|  19.55  | Vivek Raghuram         | Vidya Valley School      |
 |  19.57  | Lalithkumaar Muniyandi | IISER Tirupati           |
 |  22.97  | Sushanth G             | IISER Kolkata            |
 |  29.43  | Saryhak Thorat         | IISER Thiruvananthapuram |
@@ -1491,7 +1491,7 @@ The videos:
 |  15.78  | Nilesh Pandey     | IISER Thiruvananthapuram |
 |  17.47  | Neev Shah         | IISER Pune               |
 |  21.18  | Santhosh S        | IISER Berhampur          |
-|  23.11  | Vivek Raghuram    | IISER Pune               |
+|  23.11  | Vivek Raghuram    | Vidya Valley School      |
 |  25.44  | Sushanth G        | IISER Kolkata            |
 |  34.72  | Mayank Agarwal    | IISER Berhampur          |
 |  40.08  | Pranav M G        | IISER Tirupati           |

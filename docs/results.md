@@ -11,6 +11,40 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 - **Moves**: Number of moves in *Outer Block Turn Metric*.
 
 
+## January 2022
+
+### 08 January 2022
+
+#### 3x3
+
+|  AO5  | Name                  | Institute          |
+|:-----:|:----------------------|:-------------------|
+| 11.07 | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+| 12.00 | Vaidik Prasal         | IISER Pune         |
+| 18.61 | Amoghavarsha A V      | IISER Pune         |
+| 18.83 | Achyutan M            | IISER Berhampur    |
+| 21.39 | Ishaan Chaudhary      | IISER Pune         |
+| 26.42 | Abhiram M             | IISc               |
+| 45.73 | Rohan Kumar           | IISER Kolkata      |
+
+
+#### Pyraminx
+
+|  AO5  | Name                  | Institute          |
+|:-----:|:----------------------|:-------------------|
+| 8.35  | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+| 25.00 | Amoghavarsha A V      | IISER Pune         |
+
+
+#### 2x2 OH
+
+|  AO5  | Name                  | Institute          |
+|:-----:|:----------------------|:-------------------|
+| 13.26 | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+
+
+---
+
 ## December 2021
 
 ### 31 December 2021

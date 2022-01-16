@@ -26,20 +26,40 @@ Do read the rules in the next section after the competition structure.
 
 If you have participated in our Weekly Events, this will be just like that.
 
-We will have a Google Form, with Scrambles in it. You'll get 5 solves, and you have to submit your times using the form.
+Each institute will be assigned points based on their participation. **1 point for each participant from the institute.**
 
-**Make sure to also record yourself** doing all the solves, and submit a single video on the form. Here is a [Video Compression Guide](/compression). We advise testing your recording setup prior to the competition.
+We will have a Google Form, with Scrambles in it. You'll get *5 Scrambles*. Solving and recording at least one scramble is mandatory and enough to submit your participation. However, for selecting the cubers representing the institute teams, we will consider Average of 5 (AO5) score, so you are encouraged to do all the solves.
+
+**It is mandatory to submit a video of at least one solve.** Here is a [Video Compression Guide](/compression). We advise testing your recording setup prior to the competition.
 
 
-The top 4 members from each institute will be forming the institute team.
+The top 3 cubers from each institute will be forming the institute team.
 
-We will also assign points equal the number of participants from each institute. Seeding of matches will be done based on the points.
+The institutes will be ranked based on their participation, and placed into two groups. The Preliminary Round points will not carry forward onto further rounds. 
 
-### Final Round
+The selected cubers forming the team can choose to give themselves a name for the team.
 
-- Institutes will be assigned groups after the seeding.
+NOTE: In case of less participation, we might decide to keep only a single group. The final decisions rest with the organisers.
+
+### Group Stage
+
+- Institute Teams will be assigned to one of the two groups based on participation.
+- All teams start with 0 points. [Points from Prelims don't carry over here.]
+- Each institute team will face off every other team in their group.
+- Each match will have 3 sets of 5 solves. Each set is a head-to-head between two opposing cubers.
+  - The team announces the order of their cubers for each set before the start of the match.
+  - Each set is a head-to-head of the opposing cubers using the ordering given by the team, for the 5 solves.
+    - Each win in a solve gives 1 point to the institute.
+    - The cuber winning the set gets 5 extra points.
+    - Winning all 5 solves ("Clean Sweep") in the set grants an additional 3 points.
+  - If an institute wins all 3 sets in a match, they get an additional 3 points.
+
+The top 2 teams in each group advance to the Play-offs.
+
+
 
 ---
+
 
 ## Rules and Guidelines
 

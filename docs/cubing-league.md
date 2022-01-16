@@ -30,6 +30,15 @@ We will have a Google Form, with Scrambles in it. You'll get 5 solves, and you h
 
 **Make sure to also record yourself** doing all the solves, and submit a single video on the form. Here is a [Video Compression Guide](/compression). We advise testing your recording setup prior to the competition.
 
+
+The top 4 members from each institute will be forming the institute team.
+
+We will also assign points equal the number of participants from each institute. Seeding of matches will be done based on the points.
+
+### Final Round
+
+- Institutes will be assigned groups after the seeding.
+
 ---
 
 ## Rules and Guidelines

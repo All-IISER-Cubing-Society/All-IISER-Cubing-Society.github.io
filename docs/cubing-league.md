@@ -50,13 +50,27 @@ NOTE: In case of less participation, we might decide to keep only a single group
   - The team announces the order of their cubers for each set before the start of the match.
   - Each set is a head-to-head of the opposing cubers using the ordering given by the team, for the 5 solves.
     - Each win in a solve gives 1 point to the institute.
-    - The cuber winning the set gets 5 extra points.
-    - Winning all 5 solves ("Clean Sweep") in the set grants an additional 3 points.
+    - The cuber winning the set gets 3 extra points.
+    - Winning all 5 solves ("Clean Sweep") in the set grants an additional 2 points.
   - If an institute wins all 3 sets in a match, they get an additional 3 points.
 
 The top 2 teams in each group advance to the Play-offs.
 
+### Play-offs
 
+This will follow the IPL Format.
+
+The first placed teams in both groups will play Qualifier-1, and the winning team advances to the Finals. The losing team goes to the Qualifier-2.
+
+The second placed teams in both groups will play Eliminator. The losing team finishes 4th. The winning team advances to Qualifier-2.
+
+The winner of Qualifier-2 advances to the Finals. The losing team finishes 3rd.
+
+Each of the Qualifier-1, Qualifier-2 and Eliminator Rounds has the match format as in the Group Stage, but with 7 solves in each set (instead of 5).
+
+### Finals
+
+The winning teams of Qualifier-1 and Qualifier-2 face off in the Finals. The Finals match has the same format as the Play-offs.
 
 ---
 

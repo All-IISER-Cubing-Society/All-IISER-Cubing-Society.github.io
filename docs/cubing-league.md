@@ -49,10 +49,10 @@ NOTE: In case of less participation, we might decide to keep only a single group
 - Each match will have 3 sets of 5 solves. Each set is a head-to-head between two opposing cubers.
   - The team announces the order of their cubers for each set before the start of the match.
   - Each set is a head-to-head of the opposing cubers using the ordering given by the team, for the 5 solves.
-    - Each win in a solve gives 1 point to the institute.
-    - The cuber winning the set gets 3 extra points.
-    - Winning all 5 solves ("Clean Sweep") in the set grants an additional 2 points.
-  - If an institute wins all 3 sets in a match, they get an additional 3 points.
+    - Each win in a solve gives `1 point` to the institute.
+    - The cuber winning the set gets an additional `3 points`.
+    - Winning all 5 solves ("Wipe Out") in the set grants an additional `2 points`.
+  - If an institute wins all 3 sets in a match ("Clean Sweep"), they get an additional `3 points`.
 
 The top 2 teams in each group advance to the Play-offs.
 

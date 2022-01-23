@@ -8,6 +8,26 @@ We currently hold **Weekly Online Cubing Events**, on weekends.
 
 !> Site details may not be updated as frequently as necessary due to the site maintainer ~~being lazy~~ not being always available. If you are in the WhatsApp Group, the latest updates will always be available there.
 
+## AICS Cubing League
+
+The All IISER Cubing Society presents the AICS Cubing League, a team speedcubing competition between institutes.
+
+Head on to the webpage for event details and rules. The registration form for Prelims will be shared soon on the website.
+
+- **Webpage:** [AICS Cubing League](/cubing-league)
+- **Prelims:** 06 Feb 2022
+- **Group Stage:** 12 Feb 2022
+- **Play-offs:** 13 Feb 2022
+
+> *Do you know what my favourite part of the game is? The opportunity to play.*
+>
+> \- Mike Singletary
+
+Seeding for the final round will be based on how many people participated from that institute in the Prelims. If you know how to solve a cube, do make sure to participate in the Prelims and represent your institute!
+
+The Play-offs will be livestreamed to our YouTube Channel. The site will be updated with links appropriately.
+Final details subject to change.
+
 ## Joining AICS
 
 If you are a cuber or a person interested in cubing, we invite you to join AICS.
@@ -17,14 +37,14 @@ WhatsApp Group Link: https://chat.whatsapp.com/C9VNzsjt2cXGsIeY2XMYHc
 
 To participate, be present on the WhatsApp group at the given date and time, or use the Form Link directly.
 
-- **Date:** 16<sup>th</sup> January 2022, Saturday
+- **Date:** 29<sup>th</sup> January 2022, Saturday
 - **Time:** 04:00 PM IST
 - **Submission Deadline**: 09:00 PM IST
 - **Events:**
     - 3x3
     - To Be Decided
 
-- **Form Link:** https://forms.gle/ewcv2yDWQCfdnWXX8
+- **Form Link:** https://forms.gle/XEXTDjZ9gGtau5hJ8
 
 **Make sure you read the [Rules and Guidelines](/rules).** You may also read the helpful [Video Compression Guide](/compression), which would show a simple way to compress videos recorded from your device. Compression is helpful in case your video file size is getting quite large.
 

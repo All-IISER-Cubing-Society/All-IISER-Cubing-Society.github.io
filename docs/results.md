@@ -13,6 +13,82 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## January 2022
 
+### 22 January 2022
+
+#### 3x3
+
+|  AO5  | Name                   | Institute          |
+|:-----:|:-----------------------|:-------------------|
+| 9.41  | Yug S Patel            | Anandalaya         |
+| 10.41 | H Cubist               | -                  |
+| 10.71 | Vaidik Prasal          | IISER Pune         |
+| 10.72 | Saseeth Srilok Majeti  | Chinmaya Vidyalaya |
+| 12.02 | Yash Jakhmola          | IISER Kolkata      |
+| 13.34 | Satyam Panchal         | Ramjas             |
+| 14.84 | Pritam Kumar           | RGU                |
+| 15.28 | Tanmaay Jena           | IISER Pune         |
+| 23.31 | Mayank Agarwal         | IISER Berhampur    |
+| 28.16 | Abhiram M              | IISc               |
+| 52.00 | Shriram Santosh Dhumal | IISER Tirupati     |
+
+
+#### 2x2
+
+|  AO5  | Name                  | Institute          |
+|:-----:|:----------------------|:-------------------|
+| 3.39  | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+| 3.70  | H Cubist              | -                  |
+| 4.17  | Yug S Patel           | Anandalaya         |
+| 5.69  | Yash Jakhmola         | IISER Kolkata      |
+| 6.72  | Satyam Panchal        | Ramjas             |
+| 8.39  | Mayank Agarwal        | IISER Berhampur    |
+
+
+#### 5x5
+
+|   AO5    | Name                  | Institute          |
+|:--------:|:----------------------|:-------------------|
+| 01:23.57 | Pritam Kumar          | RGU                |
+| 01:28.25 | H Cubist              | -                  |
+| 01:30.37 | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+| 01:45.11 | Satyam Panchal        | Ramjas             |
+| 02:13.61 | Yash Jakhmola         | IISER Kolkata      |
+
+
+### 15 January 2022
+
+#### 3x3
+
+|  AO5  | Name                           | Institute          |
+|:-----:|:-------------------------------|:-------------------|
+| 8.22  | Vrishab Anurag Venkataraghavan | -                  |
+| 10.06 | Yug S Patel                    | Anandalaya         |
+| 10.76 | Saseeth Srilok Majeti          | Chinmaya Vidyalaya |
+| 11.56 | Yash Jakhmola                  | IISER Kolkata      |
+| 12.28 | Vaidik Prasal                  | IISER Pune         |
+| 19.38 | Ishaan Chaudhary               | IISER Pune         |
+| 32.08 | Abhiram M                      | IISc               |
+
+
+#### 3x3 OH
+
+|   AO5    | Name                  | Institute          |
+|:--------:|:----------------------|:-------------------|
+|  15.85   | Saseeth Srilok Majeti | Chinmaya Vidyalaya |
+|  18.42   | Yug S Patel           | Anandalaya         |
+|  22.74   | Kartik Bhide          | IISER TVM          |
+|  23.98   | Yash Jakhmola         | IISER Kolkata      |
+|  52.94   | Ishaan Chaudhary      | IISER Pune         |
+| 01:07.70 | Abhiram M             | IISc               |
+
+
+#### 4x4
+
+|  AO5  | Name          | Institute     |
+|:-----:|:--------------|:--------------|
+| 57.90 | Yash Jakhmola | IISER Kolkata |
+
+
 ### 08 January 2022
 
 #### 3x3

@@ -18,6 +18,17 @@ Only current students from the following institutes can participate:
 
 ---
 
+## Overview
+
+- **Webpage:** [AICS Cubing League](/cubing-league)
+- **Prelims:** 06 Feb 2022
+- **Group Stage:** 12 Feb 2022
+- **Play-offs:** 13 Feb 2022
+
+- **YouTube Channel:** [AICS YouTube](https://youtube.com/channel/UCXOIh4FS48Dwy3BC9_FhprA)
+- **Prelims WhatsApp Group:** https://chat.whatsapp.com/GKrYFo4DfWSHjdsqY0fHX9
+
+
 ## Competition Structure
 
 Do read the rules in the next section after the competition structure.

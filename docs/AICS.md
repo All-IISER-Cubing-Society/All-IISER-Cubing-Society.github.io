@@ -12,12 +12,15 @@ We currently hold **Weekly Online Cubing Events**, on weekends.
 
 The All IISER Cubing Society presents the AICS Cubing League, a team speedcubing competition between institutes.
 
-Head on to the webpage for event details and rules. The registration form for Prelims will be shared soon on the website.
+Head on to the webpage for event details and rules. Join the Prelims WhatsApp Group as linked below.
 
 - **Webpage:** [AICS Cubing League](/cubing-league)
 - **Prelims:** 06 Feb 2022
 - **Group Stage:** 12 Feb 2022
 - **Play-offs:** 13 Feb 2022
+
+- **YouTube Channel:** [AICS YouTube](https://youtube.com/channel/UCXOIh4FS48Dwy3BC9_FhprA)
+- **Prelims WhatsApp Group:** https://chat.whatsapp.com/GKrYFo4DfWSHjdsqY0fHX9
 
 > *Do you know what my favourite part of the game is? The opportunity to play.*
 >

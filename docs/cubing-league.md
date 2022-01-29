@@ -20,7 +20,6 @@ Only current students from the following institutes can participate:
 
 ## Overview
 
-- **Webpage:** [AICS Cubing League](/cubing-league)
 - **Prelims:** 06 Feb 2022
 - **Group Stage:** 12 Feb 2022
 - **Play-offs:** 13 Feb 2022
@@ -64,7 +63,7 @@ NOTE: In case of less participation, we might decide to keep only a single group
     - The cuber winning the set gets an additional `3 points`.
     - Winning all 5 solves ("Wipe Out") in the set grants an additional `2 points`.
   - If an institute wins all 3 sets in a match ("Clean Sweep"), they get an additional `3 points`.
-- Winning a match (i.e. winning at least 2 out of the 3 sets) grants the team an additional `4 points`.
+- Winning a match (i.e. having more points at the end of the match) grants the team an additional `4 points`.
 
 The top 2 teams in each group advance to the Play-offs.
 

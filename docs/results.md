@@ -13,6 +13,47 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## January 2022
 
+### 29 January 2022
+
+#### 3x3
+
+|  AO5  | Name                  | Institute             |
+|:-----:|:----------------------|:----------------------|
+| 7.97  | Vrishab A V           | -                     |
+| 8.95  | Yug S Patel           | Anandalaya            |
+| 9.23  | Siddhikant            | IISER Kolkata         |
+| 10.09 | H Cubist              | -                     |
+| 10.19 | Saseeth Srilok Majeti | -                     |
+| 10.81 | Ashvand Sathyajith    | Velammal Vidhyalaya   |
+| 10.92 | Yash Jakhmola         | IISER Kolkata         |
+| 12.84 | Hemachandar           | Jamal Mohamed College |
+| 13.67 | Santhosh S            | IISER Berhampur       |
+| 13.88 | Vaidik Prasal         | IISER Pune            |
+| 18.39 | Amoghavarsha A V      | IISER Pune            |
+| 22.97 | Mayank Agarwal        | IISER Berhampur       |
+
+#### 2x2 OH
+
+|  AO5  | Name                  | Institute             |
+|:-----:|:----------------------|:----------------------|
+| 7.13  | H Cubist              | -                     |
+| 7.74  | Yug S Patel           | Anandalaya            |
+| 8.51  | Saseeth Srilok Majeti | -                     |
+| 8.87  | Ashvand Sathyajith    | Velammal Vidhyalaya   |
+| 11.17 | Hemachandar           | Jamal Mohamed College |
+| 12.67 | Vrishab A V           | -                     |
+| 22.44 | Mayank Agarwal        | IISER Berhampur       |
+
+
+#### Pyraminx
+
+|  AO5  | Name                  | Institute             |
+|:-----:|:----------------------|:----------------------|
+| 8.02  | Hemachandar           | Jamal Mohamed College |
+| 8.08  | Saseeth Srilok Majeti | -                     |
+| 13.81 | Mayank Agarwal        | IISER Berhampur       |
+
+
 ### 22 January 2022
 
 #### 3x3

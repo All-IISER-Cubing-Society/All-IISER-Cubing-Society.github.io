@@ -1,5 +1,6 @@
 - AICS
   - [Rules and Guidelines](rules.md)
+  - [Cubing League](cubing-league.md)
   - [Weekly Event Results](results.md)
   - [About AICS](about.md)
   

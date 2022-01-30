@@ -31,6 +31,39 @@ Seeding for the final round will be based on how many people participated from t
 The Play-offs will be livestreamed to our YouTube Channel. The site will be updated with links appropriately.
 Final details subject to change.
 
+## Talks
+
+### Explainable AI and the Rubik's Cube - Dr. Forest Agostinelli
+
+<img src="Media/forest-agostinelli-talk.jpeg" style="width: 500px">
+
+A talk by Dr. Forest Agostinelli (Assisant Professor at University of South Carolina) on *Explainable Artificial Intelligence and the Rubik’s Cube*. 
+
+- **Date:** 04 February 2022, Friday
+- **Time:** 07:30 - 08:30 PM IST
+- **Registration:** https://docs.google.com/forms/d/e/1FAIpQLSdHFcUuSqeIJy6O1_iKL0cJCqxFgK_Cu0occuBsGMP_3qtj-g/viewform
+
+Fill the form if you want to be present in the meet (we will take in only about a 100 participants, and only students of IISERs, IISc, NISER,CEBS).
+
+The talk will also be livestreamed on our [YouTube Channel](https://www.youtube.com/channel/UCXOIh4FS48Dwy3BC9_FhprA).
+
+
+### Interview with Aiman Koli
+
+<img src="Media/aiman-koli-interview.jpeg" style="width: 500px">
+
+An interview featuring Mohammed Aiman Koli, one of India's finest speedcubers, a former World record holder and a former World champion runner-up.
+
+- **Date:** 13 February 2022, Sunday
+- **Time:** 09:00 - 10:00 AM IST
+- **Registration:** https://docs.google.com/forms/d/e/1FAIpQLSfgpsBLUGk5kukJi76lTKwf-rfM_pPTgf2hYmwHDRBBA8rvqw/viewform
+
+Fill the form if you want to be present in the meet (we will take in only about a 100 participants, and only students of IISERs, IISc, NISER,CEBS).
+
+The talk will also be livestreamed on our [YouTube Channel](https://www.youtube.com/channel/UCXOIh4FS48Dwy3BC9_FhprA).
+
+---
+
 ## Joining AICS
 
 If you are a cuber or a person interested in cubing, we invite you to join AICS.
@@ -67,7 +100,7 @@ Follow Tenacity:
 - **Facebook:** [@tenacity.iisers](https://www.facebook.com/tenacity.iisers/)
 - **YouTube:** [Tenacity : All IISER Virtual Games & Sports](https://www.youtube.com/channel/UCsw80KHBncsruxA3iw9bLgg)
 
-### Talks
+### Speedcubing Method Development - Yash Mehta
 
 Yash Mehta from IISc, inventor of the [Mehta Method](https://www.speedsolving.com/wiki/index.php/Mehta), gave a talk on Speedcubing Method Development.
 

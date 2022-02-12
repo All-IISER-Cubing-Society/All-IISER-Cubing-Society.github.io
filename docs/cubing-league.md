@@ -18,6 +18,10 @@ Only current students from the following institutes can participate:
 
 ---
 
+## Current Status - Group Stage
+
+Group Stage Points and Standings - [Webpage](https://docs.google.com/spreadsheets/d/e/2PACX-1vS8usO6eVcJOvTXEbUmv2kOkvUnE2rzWtw8nQHHkf9rAXurjLNHe1yHAlD18hfNdq8tP1-T1uWERpUj/pubhtml#)
+
 ## Overview
 
 - **Prelims:** 06 Feb 2022

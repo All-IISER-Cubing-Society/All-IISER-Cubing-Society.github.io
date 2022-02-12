@@ -81,7 +81,7 @@ The second placed teams in both groups will play Eliminator. The losing team fin
 
 The winner of Qualifier-2 advances to the Finals. The losing team finishes 3rd.
 
-Each of the Qualifier-1, Qualifier-2 and Eliminator Rounds has the match format as in the Group Stage, but with 7 solves in each set (instead of 5).
+Each of the Qualifier-1, Qualifier-2 and Eliminator Rounds has the match format as in the Group Stage, .
 
 ### Finals
 

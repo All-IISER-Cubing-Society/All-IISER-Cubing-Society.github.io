@@ -7,6 +7,21 @@ We at the All IISER Cubing Society (AICS) feel the same - it is not easy to put 
 
 We present the AICS Cubing League, a showdown between cubers from the science institutes of India.
 
+## Results
+
+The final standings were as follows:
+
+1. IISER Pune
+2. IISc
+3. IISER Kolkata
+4. IISER Berhampur
+
+
+The event instructions are kept here for reference.
+
+---
+
+
 ## Eligibility 
 
 Only current students from the following institutes can participate:
@@ -17,10 +32,6 @@ Only current students from the following institutes can participate:
 - CEBS
 
 ---
-
-## Current Status - Group Stage
-
-Group Stage Points and Standings - [Webpage](https://docs.google.com/spreadsheets/d/e/2PACX-1vS8usO6eVcJOvTXEbUmv2kOkvUnE2rzWtw8nQHHkf9rAXurjLNHe1yHAlD18hfNdq8tP1-T1uWERpUj/pubhtml#)
 
 ## Overview
 

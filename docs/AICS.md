@@ -8,28 +8,40 @@ We currently hold **Weekly Online Cubing Events**, on weekends.
 
 !> Site details may not be updated as frequently as necessary due to the site maintainer ~~being lazy~~ not being always available. If you are in the WhatsApp Group, the latest updates will always be available there.
 
+## Joining AICS
+
+If you are a cuber or a person interested in cubing, we invite you to join AICS.
+WhatsApp Group Link: https://chat.whatsapp.com/C9VNzsjt2cXGsIeY2XMYHc
+
+## Weekly Online Event
+
+To participate, be present on the WhatsApp group at the given date and time, or use the Form Link directly.
+
+- **Date:** 26<sup>th</sup> February 2022, Saturday
+- **Time:** 04:00 PM IST
+- **Submission Deadline**: 09:00 PM IST
+- **Events:**
+    - 3x3
+    - To Be Decided
+
+- **Form Link:** https://forms.gle/XEXTDjZ9gGtau5hJ8
+
+**Make sure you read the [Rules and Guidelines](/rules).** You may also read the helpful [Video Compression Guide](/compression), which would show a simple way to compress videos recorded from your device. Compression is helpful in case your video file size is getting quite large.
+
+The results for the past weekly events can be found on the [Results](/results) page.
+
+---
+
 ## AICS Cubing League
 
-The All IISER Cubing Society presents the AICS Cubing League, a team speedcubing competition between institutes.
+AICS conducted the AICS Cubing League, a tournament between the different science institutes. The final standings:
 
-Head on to the webpage for event details and rules. Join the Prelims WhatsApp Group as linked below.
+1. IISER Pune
+2. IISc
+3. IISER Kolkata
+4. IISER Berhampur
 
-- **Webpage:** [AICS Cubing League](/cubing-league)
-- **Prelims:** 06 Feb 2022
-- **Group Stage:** 12 Feb 2022
-- **Play-offs:** 13 Feb 2022
-
-- **YouTube Channel:** [AICS YouTube](https://youtube.com/channel/UCXOIh4FS48Dwy3BC9_FhprA)
-- **Prelims WhatsApp Group:** https://chat.whatsapp.com/GKrYFo4DfWSHjdsqY0fHX9
-
-> *Do you know what my favourite part of the game is? The opportunity to play.*
->
-> \- Mike Singletary
-
-Seeding for the final round will be based on how many people participated from that institute in the Prelims. If you know how to solve a cube, do make sure to participate in the Prelims and represent your institute!
-
-The Play-offs will be livestreamed to our YouTube Channel. The site will be updated with links appropriately.
-Final details subject to change.
+The event instructions can be seen on the [Cubing League](/cubing-league) page. The Play-offs and Finals can be viewed on the [AICS YouTube Channel](https://youtube.com/channel/UCXOIh4FS48Dwy3BC9_FhprA).
 
 ## Talks
 
@@ -61,30 +73,6 @@ An interview featuring Mohammed Aiman Koli, one of India's finest speedcubers, a
 Fill the form if you want to be present in the meet (we will take in only about a 100 participants, and only students of IISERs, IISc, NISER,CEBS).
 
 The talk will also be livestreamed on our [YouTube Channel](https://www.youtube.com/channel/UCXOIh4FS48Dwy3BC9_FhprA).
-
----
-
-## Joining AICS
-
-If you are a cuber or a person interested in cubing, we invite you to join AICS.
-WhatsApp Group Link: https://chat.whatsapp.com/C9VNzsjt2cXGsIeY2XMYHc
-
-## Weekly Online Event
-
-To participate, be present on the WhatsApp group at the given date and time, or use the Form Link directly.
-
-- **Date:** 5<sup>th</sup> February 2022, Saturday
-- **Time:** 04:00 PM IST
-- **Submission Deadline**: 09:00 PM IST
-- **Events:**
-    - 3x3
-    - To Be Decided
-
-- **Form Link:** https://forms.gle/XEXTDjZ9gGtau5hJ8
-
-**Make sure you read the [Rules and Guidelines](/rules).** You may also read the helpful [Video Compression Guide](/compression), which would show a simple way to compress videos recorded from your device. Compression is helpful in case your video file size is getting quite large.
-
-The results for the past weekly events can be found on the [Results](/results) page.
 
 ---
 

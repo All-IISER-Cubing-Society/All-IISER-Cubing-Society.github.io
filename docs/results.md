@@ -10,6 +10,132 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 - **MO3**: Mean of 3
 - **Moves**: Number of moves in *Outer Block Turn Metric*.
 
+## February 2022
+
+### 19 February 2022
+
+This marks the 50th Weekly Event of AICS.
+
+#### 3x3
+
+|  AO5  | Name                           | Institute         |
+|:-----:|:-------------------------------|:------------------|
+| 8.15  | Vrishab Anurag Venkataraghavan | -                 |
+| 9.05  | Siddhikant Mishra              | IISER Kolkata     |
+| 9.27  | Saseeth Srilok Majeti          | -                 |
+| 9.98  | H Cubist                       | -                 |
+| 10.04 | Advait Pai                     | IISc              |
+| 12.36 | Yash Jakhmola                  | IISER Kolkata     |
+| 13.60 | Satyam Panchal                 | Ramjas College    |
+| 14.23 | Snehal Shirpurkar              | Ashoka University |
+| 17.95 | Achyutan                       | IISER Berhampur   |
+| 18.15 | Aritra Bose                    | Don Bosco Liluah  |
+| 20.67 | Sushanth G                     | IISER Kolkata     |
+| 20.95 | Rishith                        | IISER Tirupati    |
+| 21.62 | Rutvik Mahajan                 | IISER Kolkata     |
+| 22.13 | Mayank Agarwal                 | IISER Berhampur   |
+| 25.62 | Abhiram M                      | IISc              |
+| 37.89 | Sasi Mitra                     | IISER Tirupati    |
+| 53.82 | Nehad Ahmed                    | IISER Tirupati    |
+
+
+#### 3x3 OH
+
+|   AO5    | Name                           | Institute        |
+|:--------:|:-------------------------------|:-----------------|
+|  14.35   | Siddhikant Mishra              | IISER Kolkata    |
+|  14.87   | Saseeth Srilok Majeti          | -                |
+|  16.35   | Advait Pai                     | IISc             |
+|  21.25   | Satyam Panchal                 | Ramjas College   |
+|  22.32   | Vrishab Anurag Venkataraghavan | -                |
+|  23.96   | Yash Jakhmola                  | IISER Kolkata    |
+|  43.90   | Mayank Agarwal                 | IISER Berhampur  |
+|  51.77   | Aritra Bose                    | Don Bosco Liluah |
+| 01:02.26 | Abhiram M                      | IISc             |
+
+
+#### Pyraminx
+
+|  AO5  | Name                  | Institute        |
+|:-----:|:----------------------|:-----------------|
+| 6.02  | Aritra Bose           | Don Bosco Liluah |
+| 6.54  | Saseeth Srilok Majeti | -                |
+| 14.22 | Mayank Agarwal        | IISER Berhampur  |
+| 17.29 | Yash Jakhmola         | IISER Kolkata    |
+
+
+#### 4x4
+
+|   AO5    | Name                  | Institute         |
+|:--------:|:----------------------|:------------------|
+|  37.62   | Saseeth Srilok Majeti | -                 |
+|  37.98   | Siddhikant Mishra     | IISER Kolkata     |
+|  39.16   | H Cubist              | -                 |
+|  48.25   | Advait Pai            | IISc              |
+| 01:00.06 | Yash Jakhmola         | IISER Kolkata     |
+| 01:00.59 | Snehal Shirpurkar     | Ashoka University |
+| 01:01.92 | Satyam Panchal        | Ramjas College    |
+| 01:47.35 | Mayank Agarwal        | IISER Berhampur   |
+
+
+#### 2x2
+
+|  AO5  | Name                           | Institute        |
+|:-----:|:-------------------------------|:-----------------|
+| 3.34  | H Cubist                       | -                |
+| 4.41  | Saseeth Srilok Majeti          | -                |
+| 5.39  | Yash Jakhmola                  | IISER Kolkata    |
+| 5.67  | Advait Pai                     | IISc             |
+| 5.73  | Vrishab Anurag Venkataraghavan | -                |
+| 6.30  | Aritra Bose                    | Don Bosco Liluah |
+| 6.54  | Achyutan                       | IISER Berhampur  |
+| 8.22  | Mayank Agarwal                 | IISER Berhampur  |
+| 10.21 | Rutvik Mahajan                 | IISER Kolkata    |
+| 10.63 | Abhiram M                      | IISc             |
+
+
+#### FMC
+
+| Moves | Name              | Institute       |
+|:-----:|:------------------|:----------------|
+| 34    | Santhosh S        | IISER Berhampur |
+| 52    | Abhiram M         | IISc            |
+| DNF   | Siddhikant Mishra | IISER Kolkata   |
+
+
+### 12 February 2022
+
+There was no weekly event on the occasion of the [AICL (All IISER Cubing League)](/cubing-league)
+
+
+### 05 February 2022
+
+This was a special weekly event. There was only one category: 3x3, but with 10 solves instead of the normal 5. The Average of 10 score is reported.
+
+Average of 10 is obtained by removing the best and worst scores, and taking the mean of the remaining 8 solves. If there are 2 or more DNFs, the final score is a DNF.
+
+#### 3x3 (Average of 10)
+
+| AO10  | Name                           | Institute        |
+|:-----:|:-------------------------------|:-----------------|
+| 8.71  | Vrishab Anurag Venkataraghavan | -                |
+| 9.06  | Yug S Patel                    | Anandalaya       |
+| 9.97  | H Cubist                       | -                |
+| 10.25 | Saseeth Srilok Majeti          | -                |
+| 12.07 | Yash Jakhmola                  | IISER Kolkata    |
+| 12.11 | Satyam Panchal                 | Ramjas College   |
+| 14.00 | Santhosh S                     | IISER Berhampur  |
+| 15.23 | Tanmaay Jena                   | IISER Pune       |
+| 16.71 | Aritra Bose                    | Don Bosco Liluah |
+| 19.70 | Ishaan Chaudhary               | IISER Pune       |
+| 21.16 | G Sushanth                     | IISER Kolkata    |
+| 23.78 | Mayank Agarwal                 | IISER Berhampur  |
+| 29.02 | Abhiram M                      | IISc             |
+| 30.56 | Rutvik Ashish Mahajan          | IISER Kolkata    |
+| 45.16 | Sasi Mitra                     | IISER Tirupati   |
+
+
+---
 
 ## January 2022
 

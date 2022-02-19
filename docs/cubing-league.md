@@ -16,6 +16,8 @@ The final standings were as follows:
 3. IISER Kolkata
 4. IISER Berhampur
 
+The Play-offs and Finals can be seen on the [AICS YouTube Channel](https://youtube.com/channel/UCXOIh4FS48Dwy3BC9_FhprA).
+
 
 The event instructions are kept here for reference.
 

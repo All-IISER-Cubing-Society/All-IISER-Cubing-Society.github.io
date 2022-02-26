@@ -12,6 +12,50 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## February 2022
 
+### 26 February 2022
+
+#### 3x3
+
+|  AO5  | Name                  | Institute       |
+|:-----:|:----------------------|:----------------|
+| 9.30  | Saseeth Srilok Majeti | -               |
+| 9.66  | H Cubist              | -               |
+| 10.41 | Priyanshu Kumar Bodra | IISc            |
+| 11.80 | Samay Saini           | -               |
+| 11.87 | Advait Pai            | IISc            |
+| 12.16 | Yash Jakhmola         | IISER Kolkata   |
+| 13.99 | Satyam Panchal        | Ramjas College  |
+| 17.80 | Achyutan M            | IISER Berhampur |
+| 20.29 | Mayank Agarwal        | IISER Berhampur |
+| 22.17 | Sushanth G            | IISER Kolkata   |
+| 28.29 | Abhiram M             | IISc            |
+| 30.79 | Aiyan Rashid          | -               |
+
+
+#### 3x3 OH
+
+|   AO5    | Name                  | Institute       |
+|:--------:|:----------------------|:----------------|
+|  18.34   | Advait Pai            | IISc            |
+|  19.78   | Satyam Panchal        | Ramjas College  |
+|  25.51   | Samay Saini           | -               |
+|  40.55   | Mayank Agarwal        | IISER Berhampur |
+| 01:08.41 | Abhiram M             | IISc            |
+| 01:09.58 | Aiyan Rashid          | -               |
+
+
+#### 5x5
+
+|   AO5    | Name           | Institute       |
+|:--------:|:---------------|:----------------|
+| 01:17.65 | H Cubist       | -               |
+| 01:48.43 | Samay Saini    | -               |
+| 01:51.40 | Satyam Panchal | Ramjas College  |
+| 01:55.67 | Advait Pai     | IISc            |
+| 02:49.54 | Achyutan M     | IISER Berhampur |
+| 06:30.78 | Aiyan Rashid   | -               |
+
+
 ### 19 February 2022
 
 This marks the 50th Weekly Event of AICS.

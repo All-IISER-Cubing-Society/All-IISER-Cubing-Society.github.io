@@ -10,6 +10,57 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 - **MO3**: Mean of 3
 - **Moves**: Number of moves in *Outer Block Turn Metric*.
 
+
+## March 2022
+
+### 05 March 2022
+
+#### 3x3
+
+|  AO5  | Name                  | Institute         |
+|:-----:|:----------------------|:------------------|
+| 10.35 | H Cubist              | -                 |
+| 10.77 | Priyanshu Kumar Bodra | IISc              |
+| 12.48 | Advait Pai            | IISc              |
+| 12.81 | Vaidik Prasal         | IISER Pune        |
+| 13.42 | Snehal Shirpurkar     | Ashoka University |
+| 14.78 | Tanmaay Jena          | IISER Pune        |
+| 16.60 | Achyutan M            | IISER Berhampur   |
+| 19.07 | Amoghavarsha A V      | IISER Pune        |
+| 19.39 | M Lalithkumaar        | IISER Tirupati    |
+| 20.27 | Ishaan Chaudhary      | IISER Pune        |
+| 21.27 | Sushanth G            | IISER Kolkata     |
+| 21.53 | Rutvik Mahajan        | IISER Kolkata     |
+| 25.77 | Aiyan Rashid          | -                 |
+| 25.88 | Abhiram M             | IISc              |
+| 49.29 | Smriti Dandin         | IISER Tirupati    |
+
+
+#### 4x4
+
+|   AO5    | Name              | Institute         |
+|:--------:|:------------------|:------------------|
+|  40.69   | H Cubist          | -                 |
+|  48.72   | Advait Pai        | IISc              |
+| 01:02.44 | Snehal Shirpurkar | Ashoka University |
+| 01:11.14 | Achyutan M        | IISER Berhampur   |
+| 02:50.17 | Aiyan Rashid      | -                 |
+| 03:17.67 | Smriti Dandin     | IISER Tirupati    |
+
+
+#### 2x2
+
+|  AO5  | Name              | Institute         |
+|:-----:|:------------------|:------------------|
+| 3.26  | Advait Pai        | IISc              |
+| 3.53  | H Cubist          | -                 |
+| 4.81  | Achyutan M        | IISER Berhampur   |
+| 5.29  | Snehal Shirpurkar | Ashoka University |
+| 8.14  | Aiyan Rashid      | -                 |
+| 22.33 | Smriti Dandin     | IISER Tirupati    |
+
+---
+
 ## February 2022
 
 ### 26 February 2022

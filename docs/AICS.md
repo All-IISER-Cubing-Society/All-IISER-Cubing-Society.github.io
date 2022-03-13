@@ -17,7 +17,7 @@ WhatsApp Group Link: https://chat.whatsapp.com/C9VNzsjt2cXGsIeY2XMYHc
 
 To participate, be present on the WhatsApp group at the given date and time, or use the Form Link directly.
 
-- **Date:** 12<sup>th</sup> March 2022, Saturday
+- **Date:** 19<sup>th</sup> March 2022, Saturday
 - **Time:** 04:00 PM IST
 - **Submission Deadline**: 09:00 PM IST
 - **Events:**

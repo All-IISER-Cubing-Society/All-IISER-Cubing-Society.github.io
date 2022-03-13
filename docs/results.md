@@ -13,6 +13,44 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## March 2022
 
+### 12 March 2022
+
+#### 3x3
+
+|  AO5  | Name                  | Institute       |
+|:-----:|:----------------------|:----------------|
+| 9.78  | Priyanshu Kumar Bodra | IISc            |
+| 10.64 | Advait Pai            | IISc            |
+| 10.69 | Vaidik Prasal         | IISER Pune      |
+| 11.07 | Samay Saini           | -               |
+| 15.06 | Achyutan M            | IISER Berhampur |
+| 17.17 | Amoghavarsha A V      | IISER Pune      |
+| 18.29 | Rutvik Mahajan        | IISER Kolkata   |
+| 19.22 | Ishaan Chaudhary      | IISER Pune      |
+| 19.88 | M Lalithkumaar        | IISER Tirupati  |
+| 28.15 | Aiyan Rashid          | -               |
+| 31.57 | Abhiram M             | IISc            |
+| 35.25 | Sasi Mitra            | IISER Tirupati  |
+
+
+#### 5x5
+
+|   MO3    | Name         | Institute       |
+|:--------:|:-------------|:----------------|
+| 02:00.70 | Advait Pai   | IISc            |
+| 03:02.79 | Achyutan M   | IISER Berhampur |
+| 06:14.78 | Aiyan Rashid | -               |
+
+
+#### Pyraminx
+
+|  AO5  | Name             | Institute   |
+|:-----:|:-----------------|:------------|
+| 5.73  | Samay Saini      | -           |
+| 11.66 | Aiyan Rashid     | -           |
+| 16.28 | Amoghavarsha A V | IISER Pune  |
+
+
 ### 05 March 2022
 
 #### 3x3

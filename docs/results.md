@@ -13,6 +13,55 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## March 2022
 
+### 19 March 2022
+
+#### 3x3
+
+|  AO5  | Name                  | Institute         |
+|:-----:|:----------------------|:------------------|
+| 8.86  | Saseeth Srilok Majeti | -                 |
+| 9.37  | Yug S Patel           | NISER             |
+| 10.69 | Samay Saini           | -                 |
+| 11.76 | Snehal Shirpurkar     | Ashoka University |
+| 12.68 | Vaidik Prasal         | IISER Pune        |
+| 12.76 | Yash Jakhmola         | IISER Kolkata     |
+| 13.72 | Tanmaay Jena          | IISER Pune        |
+| 15.64 | Achyutan M            | IISER Berhampur   |
+| 18.43 | Aditya Khanna         | IISER Pune        |
+| 18.45 | Rishi                 | IISER Tirupati    |
+| 19.66 | M Lalithkumaar        | IISER Tirupati    |
+| 27.28 | Aiyan Rashid          | -                 |
+| 27.91 | Abhiram M             | IISc              |
+| 34.14 | Sasi Mitra            | IISER Tirupati    |
+
+
+#### 3x3 OH
+
+|   AO5    | Name                  | Institute       |
+|:--------:|:----------------------|:----------------|
+|  13.39   | Saseeth Srilok Majeti | -               |
+|  19.61   | Yug S Patel           | NISER           |
+|  26.32   | Yash Jakhmola         | IISER Kolkata   |
+|  57.00   | M Lalithkumaar        | IISER Tirupati  |
+|  57.56   | Abhiram M             | IISc            |
+| 01:09.02 | Aiyan Rashid          | -               |
+| 01:10.57 | Achyutan M            | IISER Berhampur |
+
+
+#### Square-1
+
+|  AO5  | Name        | Institute   |
+|:-----:|:------------|:------------|
+| 13.78 | Samay Saini | -           |
+
+
+#### 3x3 with Feet
+
+|   MO3    | Name         | Institute   |
+|:--------:|:-------------|:------------|
+| 10:34.33 | Aiyan Rashid | -           |
+|   DNF    | Tanmaay Jena | IISER Pune  |
+
 ### 12 March 2022
 
 #### 3x3

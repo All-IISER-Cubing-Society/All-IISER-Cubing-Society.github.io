@@ -20,7 +20,7 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 |  AO5  | Name                  | Institute         |
 |:-----:|:----------------------|:------------------|
 | 8.86  | Saseeth Srilok Majeti | -                 |
-| 9.37  | Yug S Patel           | NISER             |
+| 9.37  | Yug S Patel           | Anandalaya        |
 | 10.69 | Samay Saini           | -                 |
 | 11.76 | Snehal Shirpurkar     | Ashoka University |
 | 12.68 | Vaidik Prasal         | IISER Pune        |
@@ -40,7 +40,7 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 |   AO5    | Name                  | Institute       |
 |:--------:|:----------------------|:----------------|
 |  13.39   | Saseeth Srilok Majeti | -               |
-|  19.61   | Yug S Patel           | NISER           |
+|  19.61   | Yug S Patel           | Anandalaya      |
 |  26.32   | Yash Jakhmola         | IISER Kolkata   |
 |  57.00   | M Lalithkumaar        | IISER Tirupati  |
 |  57.56   | Abhiram M             | IISc            |

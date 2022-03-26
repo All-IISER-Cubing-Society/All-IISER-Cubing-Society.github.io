@@ -13,6 +13,62 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## March 2022
 
+### 26 March 2022
+
+#### 3x3
+
+|  AO5  | Name                  | Institute       |
+|:-----:|:----------------------|:----------------|
+| 9.61  | Yug S Patel           | Anandalaya      |
+| 9.62  | Samay Saini           | -               |
+| 10.23 | Priyanshu Kumar Bodra | IISc            |
+| 10.52 | Saseeth Srilok Majeti | -               |
+| 10.58 | Vaidik Prasal         | IISER Pune      |
+| 12.21 | Vaishakh Kargudri     | IISER Pune      |
+| 14.55 | Tanmaay Jena          | IISER Pune      |
+| 16.07 | Keshav V              | IISER Pune      |
+| 16.78 | Achyutan M            | IISER Berhampur |
+| 17.17 | M Lalithkumaar        | IISER Tirupati  |
+| 17.52 | Amoghavarsha A V      | IISER Pune      |
+| 19.37 | Ishaan Chaudhary      | IISER Pune      |
+| 22.82 | Rutvik Mahajan        | IISER Kolkata   |
+| 28.40 | Aiyan Rashid          | -               |
+| 32.74 | Sasi Mitra            | IISER Tirupati  |
+
+#### 2x2
+
+|  AO5  | Name                  | Institute       |
+|:-----:|:----------------------|:----------------|
+| 2.79  | Samay Saini           | -               |
+| 3.83  | Yug S Patel           | Anandalaya      |
+| 4.64  | Priyanshu Kumar Bodra | IISc            |
+| 4.73  | Achyutan M            | IISER Berhampur |
+| 4.79  | Vaishakh Kargudri     | IISER Pune      |
+| 7.08  | Amoghavarsha A V      | IISER Pune      |
+| 7.44  | Aiyan Rashid          | -               |
+
+#### F2L
+
+This is a special event. Solve the 3x3 only till the first two layers.
+
+|  AO5  | Name                  | Institute       |
+|:-----:|:----------------------|:----------------|
+| 6.23  | Yug S Patel           | Anandalaya      |
+| 6.45  | Samay Saini           | -               |
+| 6.54  | Priyanshu Kumar Bodra | IISc            |
+| 6.70  | H Cubist              | -               |
+| 7.51  | Vaidik Prasal         | IISER Pune      |
+| 8.78  | Santhosh S            | IISER Berhampur |
+| 9.50  | Vaishakh Kargudri     | IISER Pune      |
+| 9.68  | Tanmaay Jena          | IISER Pune      |
+| 10.97 | Achyutan M            | IISER Berhampur |
+| 11.11 | M Lalithkumaar        | IISER Tirupati  |
+| 11.56 | Keshav V              | IISER Pune      |
+| 12.39 | Ishaan Chaudhary      | IISER Pune      |
+| 13.69 | Amoghavarsha A V      | IISER Pune      |
+| 16.96 | Sasi Mitra            | IISER Tirupati  |
+| 20.29 | Aiyan Rashid          | -               |
+
 ### 19 March 2022
 
 #### 3x3

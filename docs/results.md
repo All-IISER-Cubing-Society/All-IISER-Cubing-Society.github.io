@@ -11,6 +11,57 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 - **Moves**: Number of moves in *Outer Block Turn Metric*.
 
 
+## April 2022
+
+### 02 April 2022
+
+#### 3x3
+
+|  AO5  | Name                  | Institute       |
+|:-----:|:----------------------|:----------------|
+| 9.31  | H Cubist              | -               |
+| 9.66  | Advait Pai            | IISc            |
+| 9.87  | Priyanshu Kumar Bodra | IISc            |
+| 10.04 | Samay Saini           | -               |
+| 12.13 | Vaidik Prasal         | IISER Pune      |
+| 14.57 | Tanmaay Jena          | IISER Pune      |
+| 15.10 | Achyutan M            | IISER Berhampur |
+| 16.62 | Amoghavarsha A V      | IISER Pune      |
+| 16.87 | Rishi                 | IISER Tirupati  |
+| 17.49 | M Lalithkumaar        | IISER Tirupati  |
+| 20.39 | Rutvik Mahajan        | IISER Kolkata   |
+| 21.96 | Abhiram M             | IISc            |
+| 24.64 | Aiyan Rashid          | -               |
+| 29.97 | Sasi Mitra            | IISER Tirupati  |
+
+#### 5x5
+
+|   AO5    | Name       | Institute       |
+|:--------:|:-----------|:----------------|
+| 01:12.89 | H Cubist   | -               |
+| 02:14.28 | Advait Pai | IISc            |
+| 02:52.52 | Achyutan M | IISER Berhampur |
+
+#### 2-Gen
+
+2-Gen is a special event, in which the cube is supposed to be solved using only two moves. This event had R and U moves.
+
+|  AO5  | Name                  | Institute       |
+|:-----:|:----------------------|:----------------|
+| 4.81  | Priyanshu Kumar Bodra | IISc            |
+| 5.11  | Samay Saini           | -               |
+| 5.90  | Advait Pai            | IISc            |
+| 7.71  | Vaidik Prasal         | IISER Pune      |
+| 13.17 | H Cubist              | -               |
+| 13.21 | Achyutan M            | IISER Berhampur |
+| 13.65 | Aiyan Rashid          | -               |
+| 13.79 | M Lalithkumaar        | IISER Tirupati  |
+| 16.37 | Rutvik Mahajan        | IISER Kolkata   |
+| 20.17 | Abhiram M             | IISc            |
+| 20.74 | Amoghavarsha A V      | IISER Pune      |
+
+---
+
 ## March 2022
 
 ### 26 March 2022

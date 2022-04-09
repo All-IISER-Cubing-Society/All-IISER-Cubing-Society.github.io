@@ -13,6 +13,45 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## April 2022
 
+### 09 April 2022
+
+#### 3x3
+
+|  AO5  | Name                  | Institute       |
+|:-----:|:----------------------|:----------------|
+| 9.55  | Advait Pai            | IISc            |
+| 10.08 | Saseeth Srilok Majeti | -               |
+| 11.32 | Vaidik Prasal         | IISER Pune      |
+| 12.45 | Satyam Panchal        | Ramjas College  |
+| 13.96 | Achyutan M            | IISER Berhampur |
+| 21.63 | G Sushanth            | IISER Kolkata   |
+| 24.24 | Abhiram M             | IISc            |
+| 26.20 | Aiyan Rashid          | -               |
+
+#### 2x2
+
+|  AO5  | Name                  | Institute       |
+|:-----:|:----------------------|:----------------|
+| 3.36  | Saseeth Srilok Majeti | -               |
+| 4.28  | Advait Pai            | IISc            |
+| 4.70  | Achyutan M            | IISER Berhampur |
+| 4.70  | Aiyan Rashid          | -               |
+| 5.14  | Satyam Panchal        | Ramjas College  |
+| 9.73  | Abhiram M             | IISc            |
+
+
+#### Last Layer
+
+|  AO5  | Name                  | Institute       |
+|:-----:|:----------------------|:----------------|
+| 3.29  | Saseeth Srilok Majeti | -               |
+| 3.41  | Advait Pai            | IISc            |
+| 3.59  | Vaidik Prasal         | IISER Pune      |
+| 3.73  | Satyam Panchal        | Ramjas College  |
+| 4.79  | Achyutan M            | IISER Berhampur |
+| 7.85  | Aiyan Rashid          | -               |
+| 10.09 | Abhiram M             | IISc            |
+
 ### 02 April 2022
 
 #### 3x3

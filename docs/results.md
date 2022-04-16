@@ -13,6 +13,34 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## April 2022
 
+### 16 April 2022
+
+#### 3x3
+
+|  AO5  | Name                  | Institute      |
+|:-----:|:----------------------|:---------------|
+| 9.78  | Saseeth Srilok Majeti | -              |
+| 9.89  | Advait Pai            | IISc           |
+| 11.98 | Yash Jakhmola         | IISER Kolkata  |
+| 12.63 | Vaidik Prasal         | IISER Pune     |
+| 15.39 | Tanmaay Jena          | IISER Pune     |
+| 21.73 | Abhiram M             | IISc           |
+| 35.97 | Nehad Ahmed           | IISER Tirupati |
+
+#### 3x3 OH
+
+|  AO5  | Name                  | Institute     |
+|:-----:|:----------------------|:--------------|
+| 14.73 | Saseeth Srilok Majeti | -             |
+| 23.84 | Yash Jakhmola         | IISER Kolkata |
+
+#### 4x4
+
+|   AO5    | Name                  | Institute         |
+|:--------:|:----------------------|:------------------|
+|  40.83   | Saseeth Srilok Majeti | -                 |
+|  59.21   | Snehal Shirpurkar     | Ashoka University |
+
 ### 09 April 2022
 
 #### 3x3

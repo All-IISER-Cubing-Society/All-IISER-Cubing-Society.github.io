@@ -13,6 +13,48 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## April 2022
 
+### 23 April 2022
+
+#### 3x3
+
+|  AO5  | Name              | Institute         |
+|:-----:|:------------------|:------------------|
+| 9.07  | Advait Pai        | IISc              |
+| 10.30 | H Cubist          | -                 |
+| 14.22 | Snehal Shirpurkar | Ashoka University |
+| 14.30 | Achyutan M        | IISER Berhampur   |
+| 15.01 | Tanmaay Jena      | IISER Pune        |
+| 18.06 | M Lalithkumaar    | IISER Tirupati    |
+| 20.20 | Abhiram M         | IISc              |
+| 21.57 | Mayank Agarwal    | IISER Berhampur   |
+| 25.98 | Santhosh S        | IISER Berhampur   |
+| 31.77 | Aiyan Rashid      | -                 |
+
+#### 2x2
+
+|  AO5  | Name              | Institute         |
+|:-----:|:------------------|:------------------|
+| 2.95  | Advait Pai        | IISc              |
+| 3.65  | H Cubist          | -                 |
+| 3.69  | Achyutan M        | IISER Berhampur   |
+| 4.95  | Snehal Shirpurkar | Ashoka University |
+| 6.53  | M Lalithkumaar    | IISER Tirupati    |
+| 11.39 | Aiyan Rashid      | -                 |
+
+#### 3x3 Beginner's Method
+
+This is a special event, where the 3x3 is supposed to be solved using only the Beginner's Method.
+
+|   AO5    | Name              | Institute         |
+|:--------:|:------------------|:------------------|
+|  16.94   | Advait Pai        | IISc              |
+|  20.19   | Mayank Agarwal    | IISER Berhampur   |
+|  22.64   | Achyutan M        | IISER Berhampur   |
+|  22.75   | Snehal Shirpurkar | Ashoka University |
+|  29.20   | H Cubist          | -                 |
+|  48.70   | Aiyan Rashid      | -                 |
+| 01:00.67 | Abhiram M         | IISc              |
+
 ### 16 April 2022
 
 #### 3x3

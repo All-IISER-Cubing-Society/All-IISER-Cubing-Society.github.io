@@ -27,7 +27,6 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 | 18.06 | M Lalithkumaar    | IISER Tirupati    |
 | 20.20 | Abhiram M         | IISc              |
 | 21.57 | Mayank Agarwal    | IISER Berhampur   |
-| 25.98 | Santhosh S        | IISER Berhampur   |
 | 31.77 | Aiyan Rashid      | -                 |
 
 #### 2x2
@@ -51,6 +50,7 @@ This is a special event, where the 3x3 is supposed to be solved using only the B
 |  20.19   | Mayank Agarwal    | IISER Berhampur   |
 |  22.64   | Achyutan M        | IISER Berhampur   |
 |  22.75   | Snehal Shirpurkar | Ashoka University |
+|  25.98   | Santhosh S        | IISER Berhampur   |
 |  29.20   | H Cubist          | -                 |
 |  48.70   | Aiyan Rashid      | -                 |
 | 01:00.67 | Abhiram M         | IISc              |

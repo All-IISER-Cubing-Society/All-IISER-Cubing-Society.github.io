@@ -13,6 +13,38 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## April 2022
 
+### 30 April 2022
+
+#### 3x3
+
+|  AO5  | Name             | Institute       |
+|:-----:|:-----------------|:----------------|
+| 9.12  | Yug S Patel      | Anandalaya      |
+| 10.77 | H Cubist         | -               |
+| 11.92 | Vaidik Prasal    | IISER Pune      |
+| 17.46 | Achyutan M       | IISER Berhampur |
+| 19.26 | Ishaan Chaudhary | IISER Pune      |
+| 29.16 | Sasi Mitra       | IISER Tirupati  |
+| 32.15 | Aiyan Rashid     | -               |
+
+#### 3x3 OH
+
+|   AO5    | Name         | Institute      |
+|:--------:|:-------------|:---------------|
+|  18.02   | Yug S Patel  | Anandalaya     |
+|  18.20   | H Cubist     | -              |
+| 01:09.66 | Aiyan Rashid | -              |
+|   DNF    | Sasi Mitra   | IISER Tirupati |
+
+#### 4x4 Reduction
+
+This is a Special Event. You have a 4x4 scramble, you solve till the edges and centers (so the 4x4 is reduced to a 3x3). This time of reduction is submitted as the result.
+
+|  AO5  | Name       | Institute       |
+|:-----:|:-----------|:----------------|
+| 24.58 | H Cubist   | -               |
+| 46.98 | Achyutan M | IISER Berhampur |
+
 ### 23 April 2022
 
 #### 3x3

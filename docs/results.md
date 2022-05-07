@@ -10,6 +10,45 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 - **MO3**: Mean of 3
 - **Moves**: Number of moves in *Outer Block Turn Metric*.
 
+## May 2022
+
+### 07 May 2022
+
+#### 3x3
+
+|  AO5  | Name                  | Institute       |
+|:-----:|:----------------------|:----------------|
+| 8.69  | H Cubist              | -               |
+| 10.03 | Priyanshu Kumar Bodra | IISc            |
+| 10.12 | Saseeth Srilok Majeti | -               |
+| 12.64 | Vaidik Prasal         | IISER Pune      |
+| 14.23 | Achyutan M            | IISER Berhampur |
+| 18.33 | Amoghavarsha A V      | IISER Pune      |
+| 20.62 | Abhiram M             | IISc            |
+| 23.98 | Rutvik Mahajan        | IISER Kolkata   |
+| 25.47 | Sasi Mitra            | IISER Tirupati  |
+| 27.81 | Aiyan Rashid          | -               |
+
+#### 3x3 OH
+
+|   AO5    | Name                  | Institute      |
+|:--------:|:----------------------|:---------------|
+|  13.10   | Saseeth Srilok Majeti | -              |
+|  16.82   | Priyanshu Kumar Bodra | IISc           |
+|  17.70   | H Cubist              | -              |
+|  26.93   | Vaidik Prasal         | IISER Pune     |
+| 01:31.76 | Sasi Mitra            | IISER Tirupati |
+| 01:35.60 | Aiyan Rashid          | -              |
+
+#### Pyraminx
+
+|  AO5  | Name             | Institute       |
+|:-----:|:-----------------|:----------------|
+| 7.83  | Aiyan Rashid     | -               |
+| 12.35 | Amoghavarsha A V | IISER Pune      |
+| 21.38 | Achyutan M       | IISER Berhampur |
+
+---
 
 ## April 2022
 

@@ -12,6 +12,40 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 ## May 2022
 
+### 14 May 2022
+
+#### 3x3
+
+|  AO5  | Name           | Institute       |
+|:-----:|:---------------|:----------------|
+| 8.85  | Yug S Patel    | Anandalaya      |
+| 8.91  | Advait Pai     | IISc            |
+| 10.05 | H Cubist       | -               |
+| 10.65 | Samay Saini    | -               |
+| 14.58 | Achyutan M     | IISER Berhampur |
+| 19.56 | Rutvik Mahajan | IISER Kolkata   |
+| 28.47 | Aiyan Rashid   | -               |
+
+#### 5x5
+
+|   MO3    | Name       | Institute       |
+|:--------:|:-----------|:----------------|
+| 01:05.68 | H Cubist   | -               |
+| 02:46.55 | Achyutan M | IISER Berhampur |
+
+
+#### 3x3 Cross on Left
+
+This is a Special Event. You solve the cross on the left and the Last Layer on the right.
+
+|  Time    | Name         | Institute       |
+|:--------:|:-------------|:----------------|
+|  26.22   | Aiyan Rashid | -               |
+|  36.59   | Advait Pai   | IISc            |
+|  50.89   | H Cubist     | -               |
+|  54.77   | Samay Saini  | -               |
+| 01:04.84 | Achyutan M   | IISER Berhampur |
+
 ### 07 May 2022
 
 #### 3x3

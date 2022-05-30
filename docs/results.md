@@ -8,9 +8,70 @@ FMC Results as per [Article E](https://www.worldcubeassociation.org/regulations/
 
 - **AO5**: Average of 5
 - **MO3**: Mean of 3
+- **BO3**: Best of 3
 - **Moves**: Number of moves in *Outer Block Turn Metric*.
 
 ## May 2022
+
+### 29 May 2022
+
+#### 3x3
+
+|  AO5  | Name             | Institute              |
+|:-----:|:-----------------|:-----------------------|
+| 9.83  | Yug S Patel      | Anandalaya             |
+| 11.37 | Vaidik Prasal    | IISER Pune             |
+| 15.19 | Achyutan M       | IISER Berhampur        |
+| 17.54 | Ishaan Chaudhary | IISER Pune             |
+| 17.90 | Rishi            | IISER Tirupati         |
+| 20.59 | Rutvik Mahajan   | IISER Kolkata          |
+| 23.57 | Abhiram M        | IISc                   |
+| 25.38 | Sasi Mitra       | IISER Tirupati         |
+| 27.78 | Nehad Ahmed      | IISER Tirupati         |
+| 28.35 | Aiyan Rashid     | -                      |
+| 43.91 | Sharanya Bhowmik | Springdale High School |
+
+#### 4x4
+
+|   AO5    | Name       | Institute       |
+|:--------:|:-----------|:----------------|
+| 01:09.61 | Achyutan M | IISER Berhampur |
+
+#### Pyraminx
+
+|  AO5  | Name             | Institute              |
+|:-----:|:-----------------|:-----------------------|
+| 07.59 | Aiyan Rashid     | -                      |
+| 29.70 | Sasi Mitra       | IISER Tirupati         |
+|  DNF  | Sharanya Bhowmik | Springdale High School |
+
+
+### 21 May 2022
+
+#### 3x3
+
+|  AO5  | Name                  | Institute              |
+|:-----:|:----------------------|:-----------------------|
+| 9.05  | Saseeth Srilok Majeti | -                      |
+| 10.79 | Aaryan Shah           | IISER Bhopal           |
+| 17.12 | Achyutan M            | IISER Berhampur        |
+| 17.34 | Amoghavarsha A V      | IISER Pune             |
+| 18.44 | Rishi                 | IISER Tirupati         |
+| 19.72 | Abhiram M             | IISc                   |
+| 20.69 | Rutvik Mahajan        | IISER Kolkata          |
+| 29.51 | Sasi Mitra            | IISER Tirupati         |
+| 31.12 | Aiyan Rashid          | -                      |
+| 32.75 | Nehad Ahmed           | IISER Tirupati         |
+| 51.14 | Sharanya Bhowmik      | Springdale High School |
+
+#### 2x2 - 5x5 Relay
+
+|   BO3    | Name                  | Institute       |
+|:--------:|:----------------------|:----------------|
+| 01:58.12 | H Cubist              | -               |
+| 02:32.56 | Saseeth Srilok Majeti | -               |
+| 04:27.20 | Achyutan M            | IISER Berhampur |
+| 15:32.69 | Aiyan Rashid          | -               |
 
 ### 14 May 2022
 
